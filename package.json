@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && mkdir -p public && cp -R out/. public/",
     "start": "next start",
     "check": "node ../../tests/static-check.mjs && next build"
   },

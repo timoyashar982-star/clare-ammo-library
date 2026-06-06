@@ -1,5 +1,7 @@
 .vercel
 .next
+out
+public
 node_modules
 .chrome-*
 npm-debug.log*
