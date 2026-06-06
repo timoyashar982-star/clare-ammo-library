@@ -73,7 +73,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 128,
     "install": "从 GitHub Releases 下载 .dmg 或 .zip 包安装",
-    "cover": "https://opengraph.githubassets.com/20fa9df391a22a22b01fba02733c5dc6daaf1d5299bd130b09ad12ab5666e3ce/AdamWawrzynkowskiGF/Mousecape-TahoeSupport"
+    "cover": "https://opengraph.githubassets.com/20fa9df391a22a22b01fba02733c5dc6daaf1d5299bd130b09ad12ab5666e3ce/AdamWawrzynkowskiGF/Mousecape-TahoeSupport",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/AdamWawrzynkowskiGF/Mousecape-TahoeSupport",
+      "error": null
+    }
   },
   {
     "id": "3761c99d-3c96-81da-bb60-ede6439760d4",
@@ -144,7 +151,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3761c99d3c9681dabb60ede6439760d4.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3761c99d3c9681dabb60ede6439760d4.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://maxrudberg.com/themes.html",
+      "error": null
+    }
   },
   {
     "id": "3751c99d-3c96-81ea-9c69-d484a2944cdc",
@@ -221,7 +235,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3751c99d3c9681ea9c69d484a2944cdc.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3751c99d3c9681ea9c69d484a2944cdc.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://chatcut.io/",
+      "error": null
+    }
   },
   {
     "id": "3751c99d-3c96-81f0-8f94-f92f04d6db20",
@@ -295,7 +316,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3751c99d3c9681f08f94f92f04d6db20.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3751c99d3c9681f08f94f92f04d6db20.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://paper.design/docs/svg",
+      "error": null
+    }
   },
   {
     "id": "3741c99d-3c96-81f1-824c-cd303841617d",
@@ -378,7 +406,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://www.helio.im/og-image.png"
+    "cover": "https://www.helio.im/og-image.png",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.helio.im/",
+      "error": null
+    }
   },
   {
     "id": "3731c99d-3c96-814d-b727-d5fb8d775a07",
@@ -457,7 +492,14 @@ window.CLARE_TOOL_DATA = [
     "language": "JavaScript",
     "stars": 28567,
     "install": "git clone https://github.com/pewdiepie-archdaemon/odysseus.git && cd odysseus && 运行安装脚本或Docker Compose",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3731c99d3c96814db727d5fb8d775a07.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3731c99d3c96814db727d5fb8d775a07.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "error": null
+    }
   },
   {
     "id": "3731c99d-3c96-8170-b48f-e2dfb948158b",
@@ -530,7 +572,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 20232,
     "install": "克隆 Baoyu 仓库，并按文档配置作为 Agent 技能使用",
-    "cover": null
+    "cover": null,
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-image-gen",
+      "error": null
+    }
   },
   {
     "id": "3721c99d-3c96-81d7-9d9b-d7ae9ceebea2",
@@ -609,7 +658,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 8968,
     "install": "npm install -g @mindfoldhq/trellis@latest",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3721c99d3c9681d79d9bd7ae9ceebea2.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3721c99d3c9681d79d9bd7ae9ceebea2.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/mindfold-ai/Trellis/blob/main/README_CN.md",
+      "error": null
+    }
   },
   {
     "id": "3721c99d-3c96-81d2-9efd-d48236b4a44c",
@@ -683,7 +739,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3721c99d3c9681d29efdd48236b4a44c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3721c99d3c9681d29efdd48236b4a44c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://react-spectrum.adobe.com/",
+      "error": null
+    }
   },
   {
     "id": "3721c99d-3c96-8172-a485-e0e933ce811c",
@@ -760,7 +823,14 @@ window.CLARE_TOOL_DATA = [
     "language": "Markdown",
     "stars": 24629,
     "install": "直接浏览,无需安装",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3721c99d3c968172a485e0e933ce811c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3721c99d3c968172a485e0e933ce811c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/alexpate/awesome-design-systems",
+      "error": null
+    }
   },
   {
     "id": "3721c99d-3c96-8198-a484-f42857ec1cc8",
@@ -841,7 +911,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 15169,
     "install": "npm install @react-spectrum/package-name 或 yarn add @react-spectrum/package-name",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3721c99d3c968198a484f42857ec1cc8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3721c99d3c968198a484f42857ec1cc8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/adobe/react-spectrum",
+      "error": null
+    }
   },
   {
     "id": "3701c99d-3c96-8121-ba11-df7bbba947bb",
@@ -921,7 +998,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3701c99d3c968121ba11df7bbba947bb.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3701c99d3c968121ba11df7bbba947bb.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.meshy.ai/discover",
+      "error": null
+    }
   },
   {
     "id": "3701c99d-3c96-818c-9126-da53d47f4f7d",
@@ -1003,7 +1087,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3701c99d3c96818c9126da53d47f4f7d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3701c99d3c96818c9126da53d47f4f7d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.meshy.ai/",
+      "error": null
+    }
   },
   {
     "id": "36f1c99d-3c96-8103-95a0-d43a410d7031",
@@ -1084,7 +1175,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": null
+    "cover": null,
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.lottielab.com/",
+      "error": null
+    }
   },
   {
     "id": "36f1c99d-3c96-8100-b485-fafb9d8fe16a",
@@ -1162,7 +1260,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 401,
     "install": "git clone 仓库后，复制 skill 目录到 Codex skills 文件夹。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36f1c99d3c968100b485fafb9d8fe16a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36f1c99d3c968100b485fafb9d8fe16a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "error": null
+    }
   },
   {
     "id": "36e1c99d-3c96-81af-bc41-e347a23858b3",
@@ -1233,7 +1338,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 360,
     "install": "npm install @web-kits/audio",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c9681afbc41e347a23858b3.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c9681afbc41e347a23858b3.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/raphaelsalaja/audio",
+      "error": null
+    }
   },
   {
     "id": "36e1c99d-3c96-8176-b317-c00ee759e9bd",
@@ -1304,7 +1416,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 5489,
     "install": "供 AI 智能体学习和集成, 无需用户安装运行",
-    "cover": null
+    "cover": null,
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/greensock/gsap-skills",
+      "error": null
+    }
   },
   {
     "id": "36e1c99d-3c96-8120-b645-ea795351b51c",
@@ -1384,7 +1503,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c968120b645ea795351b51c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c968120b645ea795351b51c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.magicslide.show/#3",
+      "error": null
+    }
   },
   {
     "id": "36e1c99d-3c96-812b-bb0e-d7132f23c185",
@@ -1460,7 +1586,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://cdn.sanity.io/files/zc1yyogj/production/ca6e9acf928792476eaf2bbfa59cd9473d7d47c8.png"
+    "cover": "https://cdn.sanity.io/files/zc1yyogj/production/ca6e9acf928792476eaf2bbfa59cd9473d7d47c8.png",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://promptadvance.club/chatgpt-prompts",
+      "error": null
+    }
   },
   {
     "id": "36e1c99d-3c96-8179-b1f8-c85c99f52479",
@@ -1534,7 +1667,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c968179b1f8c85c99f52479.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c968179b1f8c85c99f52479.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.osirisai.live/?lat=43.7802&lon=47.2133&zoom=1.82&layers=cctv%2Clive_news%2Cnews_intel%2Cearthquakes%2Cglobal_incidents%2Cday_night",
+      "error": null
+    }
   },
   {
     "id": "36e1c99d-3c96-81a8-94d4-ce2471a4fe01",
@@ -1611,7 +1751,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 2947,
     "install": "git clone https://github.com/megh-bari/pattern-craft.git && cd pattern-craft && npm install && npm run dev",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c9681a894d4ce2471a4fe01.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c9681a894d4ce2471a4fe01.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/megh-bari/pattern-craft",
+      "error": null
+    }
   },
   {
     "id": "36e1c99d-3c96-81f1-a376-eba7ab677530",
@@ -1686,7 +1833,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 2572,
     "install": "通过 npm 或 yarn 安装，如 `npm install animal-island-ui`，然后在 React 项目中导入使用",
-    "cover": null
+    "cover": null,
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/guokaigdg/animal-island-ui",
+      "error": null
+    }
   },
   {
     "id": "36e1c99d-3c96-8167-997b-deff650a54fc",
@@ -1766,7 +1920,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c968167997bdeff650a54fc.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36e1c99d3c968167997bdeff650a54fc.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://lafys.com/",
+      "error": null
+    }
   },
   {
     "id": "36d1c99d-3c96-81db-b8e9-fb1fb08aded4",
@@ -1841,7 +2002,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36d1c99d3c9681dbb8e9fb1fb08aded4.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36d1c99d3c9681dbb8e9fb1fb08aded4.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://cartesian.app/",
+      "error": null
+    }
   },
   {
     "id": "36d1c99d-3c96-81f1-ad5a-f0a01e2b7302",
@@ -1913,7 +2081,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36d1c99d3c9681f1ad5af0a01e2b7302.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36d1c99d3c9681f1ad5af0a01e2b7302.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://chiuhans111.github.io/marbles/",
+      "error": null
+    }
   },
   {
     "id": "36d1c99d-3c96-810e-bb97-e933abc991df",
@@ -1990,7 +2165,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://transitions.dev/assets/og-image.jpg"
+    "cover": "https://transitions.dev/assets/og-image.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://transitions.dev/",
+      "error": null
+    }
   },
   {
     "id": "36d1c99d-3c96-81ee-90f2-ecf15d2f4c1a",
@@ -2068,7 +2250,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": null
+    "cover": null,
+    "linkCheck": {
+      "ok": false,
+      "status": 429,
+      "method": "GET",
+      "finalUrl": "https://www.designmd.supply/",
+      "error": null
+    }
   },
   {
     "id": "36c1c99d-3c96-8141-ad88-db2261276724",
@@ -2151,7 +2340,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36c1c99d3c968141ad88db2261276724.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36c1c99d3c968141ad88db2261276724.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://gsap.com/showcase/",
+      "error": null
+    }
   },
   {
     "id": "36b1c99d-3c96-812c-a7a4-ddb9d13bc416",
@@ -2229,7 +2425,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://akira.sachi.dev/og.png"
+    "cover": "https://akira.sachi.dev/og.png",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://akira.sachi.dev/",
+      "error": null
+    }
   },
   {
     "id": "36b1c99d-3c96-81ba-a8ea-d31d5ff9461c",
@@ -2309,7 +2512,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://patterncraft.fun/og-banner.png"
+    "cover": "https://patterncraft.fun/og-banner.png",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://patterncraft.fun/",
+      "error": null
+    }
   },
   {
     "id": "36b1c99d-3c96-8188-b864-c1dfaa26ba32",
@@ -2385,7 +2595,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://itshover.com/og.png"
+    "cover": "https://itshover.com/og.png",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.itshover.com/",
+      "error": null
+    }
   },
   {
     "id": "36b1c99d-3c96-81bf-9542-c8211ece6aa4",
@@ -2464,7 +2681,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36b1c99d3c9681bf9542c8211ece6aa4.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/36b1c99d3c9681bf9542c8211ece6aa4.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.sensory-ui.com/",
+      "error": null
+    }
   },
   {
     "id": "36a1c99d-3c96-813e-a665-efaf654950df",
@@ -2550,7 +2774,14 @@ window.CLARE_TOOL_DATA = [
     "language": "Python",
     "stars": 2431,
     "install": "运行Docker命令 (e.g., docker run ghcr.io/st-tech/ppf-contact-solver-compiled-sigasia-2024:latest) 或使用Windows原生可执行文件",
-    "cover": "https://repository-images.githubusercontent.com/891818222/2a0ee8b6-68b4-4b6f-b7c4-01bef1ab75e5"
+    "cover": "https://repository-images.githubusercontent.com/891818222/2a0ee8b6-68b4-4b6f-b7c4-01bef1ab75e5",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/st-tech/ppf-contact-solver",
+      "error": null
+    }
   },
   {
     "id": "3681c99d-3c96-81b2-beb2-eb3904cf0621",
@@ -2631,7 +2862,14 @@ window.CLARE_TOOL_DATA = [
     "language": "JavaScript",
     "stars": 4154,
     "install": "npx skills add earthtojake/text-to-cad",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3681c99d3c9681b2beb2eb3904cf0621.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3681c99d3c9681b2beb2eb3904cf0621.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/earthtojake/text-to-cad",
+      "error": null
+    }
   },
   {
     "id": "3681c99d-3c96-812d-a968-e478b10407c8",
@@ -2705,7 +2943,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3681c99d3c96812da968e478b10407c8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3681c99d3c96812da968e478b10407c8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.cadskills.xyz/",
+      "error": null
+    }
   },
   {
     "id": "3651c99d-3c96-812a-a12e-d88c8f84efd3",
@@ -2781,7 +3026,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": null
+    "cover": null,
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://example.com/",
+      "error": null
+    }
   },
   {
     "id": "3651c99d-3c96-81fa-bbe1-f7aa3a261bbf",
@@ -2857,7 +3109,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://public-assets.midlibrary.io/opengraph/midlibrary-io-midjourney-sref-codes-library-01.jpg"
+    "cover": "https://public-assets.midlibrary.io/opengraph/midlibrary-io-midjourney-sref-codes-library-01.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://midlibrary.io/art-styles",
+      "error": null
+    }
   },
   {
     "id": "3641c99d-3c96-816d-9510-e2f463a32730",
@@ -2924,7 +3183,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3641c99d3c96816d9510e2f463a32730.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3641c99d3c96816d9510e2f463a32730.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://msnr-mymt.net/",
+      "error": null
+    }
   },
   {
     "id": "3631c99d-3c96-814a-a8f9-d757dd974969",
@@ -2999,7 +3265,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3631c99d3c96814aa8f9d757dd974969.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3631c99d3c96814aa8f9d757dd974969.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://lasso.timokuilder.com/",
+      "error": null
+    }
   },
   {
     "id": "3631c99d-3c96-81c4-a0cf-f6a80b2041f7",
@@ -3077,7 +3350,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3631c99d3c9681c4a0cff6a80b2041f7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3631c99d3c9681c4a0cff6a80b2041f7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://randoma11y.com/",
+      "error": null
+    }
   },
   {
     "id": "3631c99d-3c96-8162-b7c9-d8b023c09393",
@@ -3156,7 +3436,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3631c99d3c968162b7c9d8b023c09393.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3631c99d3c968162b7c9d8b023c09393.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://david-hckh.com/",
+      "error": null
+    }
   },
   {
     "id": "3631c99d-3c96-812a-a0f9-c198b7db2b93",
@@ -3234,7 +3521,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 92,
     "install": "git clone https://github.com/davidhckh/portfolio-2025.git && cd portfolio-2025 && npm install && npm run dev",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3631c99d3c96812aa0f9c198b7db2b93.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3631c99d3c96812aa0f9c198b7db2b93.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/davidhckh/portfolio-2025",
+      "error": null
+    }
   },
   {
     "id": "3621c99d-3c96-810a-8abf-caac144cf700",
@@ -3315,7 +3609,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3621c99d3c96810a8abfcaac144cf700.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3621c99d3c96810a8abfcaac144cf700.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://meimaobing.ai/",
+      "error": null
+    }
   },
   {
     "id": "3621c99d-3c96-814b-9496-fc7417cc6e10",
@@ -3386,7 +3687,14 @@ window.CLARE_TOOL_DATA = [
     "language": "Rust",
     "stars": 21146,
     "install": "克隆仓库, 安装 Rust & Python 依赖, 参考 `phoenix/run_pipeline.py` 运行推理管道。",
-    "cover": "https://avatars.githubusercontent.com/u/130314967?s=400&v=4"
+    "cover": "https://avatars.githubusercontent.com/u/130314967?s=400&v=4",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/xai-org/x-algorithm",
+      "error": null
+    }
   },
   {
     "id": "3621c99d-3c96-8121-9c15-d610e25e625e",
@@ -3469,7 +3777,14 @@ window.CLARE_TOOL_DATA = [
     "language": "Python",
     "stars": 104,
     "install": "首先安装 uv 和 just。在仓库根目录运行 `just setup`。然后配置 OpenAI/Gemini/Anthropic 等 API 密钥。使用 `uv run articraft generate` 命令通过提示词生成 3D 资产。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3621c99d3c9681219c15d610e25e625e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3621c99d3c9681219c15d610e25e625e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/mattzh72/articraft",
+      "error": null
+    }
   },
   {
     "id": "3611c99d-3c96-81b1-a2c2-f83b7b3578b9",
@@ -3551,7 +3866,14 @@ window.CLARE_TOOL_DATA = [
     "language": "HTML",
     "stars": 5284,
     "install": "适用于Claude Code: `npx skills add tw93/kami -a claude-code -g -y`；Claude Desktop: 下载ZIP包手动安装。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3611c99d3c9681b1a2c2f83b7b3578b9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3611c99d3c9681b1a2c2f83b7b3578b9.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/tw93/kami",
+      "error": null
+    }
   },
   {
     "id": "3601c99d-3c96-81ef-a75c-ed09e37b787f",
@@ -3630,7 +3952,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 570,
     "install": "克隆仓库后，运行 `pnpm install && pnpm dev`。需确保 PATH 中有 AI 编程 CLI。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3601c99d3c9681efa75ced09e37b787f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3601c99d3c9681efa75ced09e37b787f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/nexu-io/html-anything",
+      "error": null
+    }
   },
   {
     "id": "35f1c99d-3c96-8167-8c06-caf786326c2d",
@@ -3703,7 +4032,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 928,
     "install": "git clone https://github.com/cartesiancs/map3d.git && cd map3d && npm install && npm run dev",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35f1c99d3c9681678c06caf786326c2d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35f1c99d3c9681678c06caf786326c2d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/cartesiancs/map3d",
+      "error": null
+    }
   },
   {
     "id": "35f1c99d-3c96-816a-afdd-cb4f6c4e616e",
@@ -3784,7 +4120,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 17814,
     "install": "使用 `npx skills add heygen-com/hyperframes` 命令，将 HyperFrames 技能集成至 AI 代理。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35f1c99d3c96816aafddcb4f6c4e616e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35f1c99d3c96816aafddcb4f6c4e616e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/heygen-com/hyperframes",
+      "error": null
+    }
   },
   {
     "id": "35f1c99d-3c96-81c0-8f14-cb26ed5b92c9",
@@ -3862,7 +4205,14 @@ window.CLARE_TOOL_DATA = [
     "language": "HTML",
     "stars": 257,
     "install": "直接在浏览器中打开 tiny-world-builder.html, 或通过 `python3 -m http.server 8000` 启动本地服务器访问",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35f1c99d3c9681c08f14cb26ed5b92c9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35f1c99d3c9681c08f14cb26ed5b92c9.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/jasonkneen/tiny-world-builder",
+      "error": null
+    }
   },
   {
     "id": "35f1c99d-3c96-81d9-926e-ec1d2d1fafb6",
@@ -3941,7 +4291,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://www.wisme.ai/og-image-1200x630.png"
+    "cover": "https://www.wisme.ai/og-image-1200x630.png",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://wisme.ai/en",
+      "error": null
+    }
   },
   {
     "id": "35f1c99d-3c96-813a-bf25-ee2e72b9d205",
@@ -4011,7 +4368,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://cgw334.mount.jp/img/ogp.png"
+    "cover": "https://cgw334.mount.jp/img/ogp.png",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://cgw334.mount.jp/",
+      "error": null
+    }
   },
   {
     "id": "35f1c99d-3c96-815e-9441-f03b94f25dcc",
@@ -4090,7 +4454,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": null
+    "cover": null,
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://onomuta.github.io/onom-gen/",
+      "error": null
+    }
   },
   {
     "id": "35e1c99d-3c96-8107-a8e0-ca0c61696371",
@@ -4170,7 +4541,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c968107a8e0ca0c61696371.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c968107a8e0ca0c61696371.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://muuuuu.org/",
+      "error": null
+    }
   },
   {
     "id": "35e1c99d-3c96-81c4-a289-ed2da3dfe01a",
@@ -4248,7 +4626,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c9681c4a289ed2da3dfe01a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c9681c4a289ed2da3dfe01a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://getdesign.md/",
+      "error": null
+    }
   },
   {
     "id": "35e1c99d-3c96-8179-87a8-de17ee60ad8c",
@@ -4316,7 +4701,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c96817987a8de17ee60ad8c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c96817987a8de17ee60ad8c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://bruno-simon.com/",
+      "error": null
+    }
   },
   {
     "id": "35e1c99d-3c96-817f-9a13-ff39ff27ef3d",
@@ -4397,7 +4789,14 @@ window.CLARE_TOOL_DATA = [
     "language": "HTML",
     "stars": 7310,
     "install": "npx skills add https://github.com/op7418/guizang-ppt-skill --skill guizang-ppt-skill",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c96817f9a13ff39ff27ef3d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c96817f9a13ff39ff27ef3d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/op7418/guizang-ppt-skill",
+      "error": null
+    }
   },
   {
     "id": "35e1c99d-3c96-81d4-add5-cd54d4719e64",
@@ -4471,7 +4870,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c9681d4add5cd54d4719e64.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c9681d4add5cd54d4719e64.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://batwa.fukudapero.com/",
+      "error": null
+    }
   },
   {
     "id": "35e1c99d-3c96-8142-bc50-c9bda119f946",
@@ -4544,7 +4950,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 2,
     "install": "git clone https://github.com/gcui-art/suno-api.git && cd suno-api && npm install",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c968142bc50c9bda119f946.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35e1c99d3c968142bc50c9bda119f946.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/huangserva/suno-api",
+      "error": null
+    }
   },
   {
     "id": "35d1c99d-3c96-8170-94b4-d08be5ba0688",
@@ -4619,7 +5032,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 223,
     "install": "克隆仓库后运行 `npm install` 安装依赖，再用 `npm run dev` 启动本地开发服务器。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35d1c99d3c96817094b4d08be5ba0688.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35d1c99d3c96817094b4d08be5ba0688.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/cclank/cell-architecture-studio",
+      "error": null
+    }
   },
   {
     "id": "35d1c99d-3c96-8136-82d1-cc65ba88b070",
@@ -4693,7 +5113,14 @@ window.CLARE_TOOL_DATA = [
     "language": "JavaScript",
     "stars": 867,
     "install": "git clone https://github.com/huangserva/3DCellForge.git; cd 3DCellForge; npm install; npm run dev",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35d1c99d3c96813682d1cc65ba88b070.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35d1c99d3c96813682d1cc65ba88b070.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/huangserva/3DCellForge",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8184-8659-dff55ec45398",
@@ -4767,7 +5194,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681848659dff55ec45398.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681848659dff55ec45398.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://bokoko33.me/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8143-9b06-dd172c26f395",
@@ -4845,7 +5279,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681439b06dd172c26f395.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681439b06dd172c26f395.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://designer.microsoft.com/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-817c-86bc-d8161fe6409f",
@@ -4923,7 +5364,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96817c86bcd8161fe6409f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96817c86bcd8161fe6409f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://component.gallery/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81a2-9244-e83a5dbc039f",
@@ -5003,7 +5451,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681a29244e83a5dbc039f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681a29244e83a5dbc039f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://m3.material.io/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8144-9f7c-e7049b4c92a4",
@@ -5083,7 +5538,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681449f7ce7049b4c92a4.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681449f7ce7049b4c92a4.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://sketchfab.com/3d-models",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-818f-ae4d-ec18c0084c96",
@@ -5163,7 +5625,14 @@ window.CLARE_TOOL_DATA = [
     "language": "Python",
     "stars": 788,
     "install": "npm install -g @canghe_ai/wechat-cli",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96818fae4dec18c0084c96.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96818fae4dec18c0084c96.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/huohuoer/wechat-cli",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8177-a7c8-c843fe33affb",
@@ -5244,7 +5713,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968177a7c8c843fe33affb.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968177a7c8c843fe33affb.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 429,
+      "method": "GET",
+      "finalUrl": "https://designmd.me/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8139-891b-f0092735aa13",
@@ -5324,7 +5800,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968139891bf0092735aa13.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968139891bf0092735aa13.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://htmldrag.com/zh/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-810c-afad-fc3e0b4a18de",
@@ -5401,7 +5884,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96810cafadfc3e0b4a18de.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96810cafadfc3e0b4a18de.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 0,
+      "method": "GET",
+      "finalUrl": "https://ai.changyou.club/login",
+      "error": "curl: (28) Connection timed out after 6001 milliseconds"
+    }
   },
   {
     "id": "35c1c99d-3c96-8156-a69f-e01a0f0ca48c",
@@ -5477,7 +5967,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968156a69fe01a0f0ca48c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968156a69fe01a0f0ca48c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://manage-xai.ainaibahub.com/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81b9-8a35-c8107b20d0cd",
@@ -5550,7 +6047,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681b98a35c8107b20d0cd.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681b98a35c8107b20d0cd.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://docs.ml5js.org/#/reference/bodypose",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-814c-a5a8-f8f6636d490c",
@@ -5625,7 +6129,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96814ca5a8f8f6636d490c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96814ca5a8f8f6636d490c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://tonejs.github.io/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81f6-93ad-e3300c595d12",
@@ -5703,7 +6214,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681f693ade3300c595d12.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681f693ade3300c595d12.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://learningsynths.ableton.com/en/playground",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81bd-be9f-f80b31f8e365",
@@ -5784,7 +6302,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681bdbe9ff80b31f8e365.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681bdbe9ff80b31f8e365.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 404,
+      "method": "GET",
+      "finalUrl": "https://course.creativecoding.in/notes/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8136-bb85-c61b7f83337a",
@@ -5857,7 +6382,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968136bb85c61b7f83337a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968136bb85c61b7f83337a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.artblocks.io/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-818f-927c-cd1e0b1bf9f9",
@@ -5933,7 +6465,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96818f927ccd1e0b1bf9f9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96818f927ccd1e0b1bf9f9.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 429,
+      "method": "GET",
+      "finalUrl": "https://www.fxhash.xyz/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8120-9290-c376218af8e7",
@@ -6011,7 +6550,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681209290c376218af8e7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681209290c376218af8e7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://p5js.org/examples/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8191-8e74-d3917c848c01",
@@ -6082,7 +6628,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681918e74d3917c848c01.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681918e74d3917c848c01.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://www.wowlavie.com/article/240024920",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8140-9ab4-faedf4a7d7f4",
@@ -6159,7 +6712,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681409ab4faedf4a7d7f4.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681409ab4faedf4a7d7f4.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://bantamtools.com/products/bantam-tools-artframe-1824",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8195-b890-cd7ac471cd4a",
@@ -6231,7 +6791,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968195b890cd7ac471cd4a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968195b890cd7ac471cd4a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.youtube.com/watch?v=aG94gX76t9w",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81b3-a327-c3cbe26709da",
@@ -6310,7 +6877,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681b3a327c3cbe26709da.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681b3a327c3cbe26709da.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://brm.io/matter-js/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81fc-82a3-d08d5353137f",
@@ -6388,7 +6962,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681fc82a3d08d5353137f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681fc82a3d08d5353137f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://ml5js.org/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8154-a4ef-db828c335ffb",
@@ -6471,7 +7052,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968154a4efdb828c335ffb.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968154a4efdb828c335ffb.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.instagram.com/zach.lieberman/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-817e-9987-ed2d06340f37",
@@ -6550,7 +7138,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96817e9987ed2d06340f37.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96817e9987ed2d06340f37.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://andreasgysin.com/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8108-8733-d1cc24e622b4",
@@ -6623,7 +7218,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681088733d1cc24e622b4.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681088733d1cc24e622b4.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.lovid.org/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81d3-8fe3-ed1d701e43d0",
@@ -6690,7 +7292,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681d38fe3ed1d701e43d0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681d38fe3ed1d701e43d0.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.mattdesl.com/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-811e-94eb-ce67055052ec",
@@ -6773,7 +7382,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96811e94ebce67055052ec.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96811e94ebce67055052ec.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://timrodenbroeker.de/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81de-bdd1-f55ce4216f67",
@@ -6848,7 +7464,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681debdd1f55ce4216f67.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681debdd1f55ce4216f67.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://natureofcode.com/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81b8-a024-f4b9f82307a8",
@@ -6927,7 +7550,14 @@ window.CLARE_TOOL_DATA = [
     "language": "JavaScript",
     "stars": 29,
     "install": "克隆仓库后，运行`npm install`安装依赖，然后根据`README`指示运行示例。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681b8a024f4b9f82307a8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681b8a024f4b9f82307a8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/TetsuakiBaba/p5MediaPipe",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-812e-8ad2-c5d60be3d504",
@@ -7001,7 +7631,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96812e8ad2c5d60be3d504.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c96812e8ad2c5d60be3d504.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://processingfoundation.org/fellowships",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8197-930b-fe36d0f2229d",
@@ -7069,7 +7706,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968197930bfe36d0f2229d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968197930bfe36d0f2229d.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://openprocessing.org/sketch/2542572",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-81c6-a797-ef78ba0bd15f",
@@ -7145,7 +7789,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681c6a797ef78ba0bd15f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c9681c6a797ef78ba0bd15f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://natureofcode.com/introduction/",
+      "error": null
+    }
   },
   {
     "id": "35c1c99d-3c96-8185-acd9-e899892c4aa8",
@@ -7225,7 +7876,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968185acd9e899892c4aa8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35c1c99d3c968185acd9e899892c4aa8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://thebookofshaders.com/",
+      "error": null
+    }
   },
   {
     "id": "35b1c99d-3c96-813d-915c-f237aac393b9",
@@ -7305,7 +7963,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35b1c99d3c96813d915cf237aac393b9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35b1c99d3c96813d915cf237aac393b9.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://iconsax.io/",
+      "error": null
+    }
   },
   {
     "id": "35b1c99d-3c96-8137-a1c3-d93ad173faa7",
@@ -7383,7 +8048,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35b1c99d3c968137a1c3d93ad173faa7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35b1c99d3c968137a1c3d93ad173faa7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://particles.casberry.in/",
+      "error": null
+    }
   },
   {
     "id": "35b1c99d-3c96-81c7-a6d3-f580d81b9266",
@@ -7460,7 +8132,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35b1c99d3c9681c7a6d3f580d81b9266.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35b1c99d3c9681c7a6d3f580d81b9266.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://skills.yangsir.net/archive",
+      "error": null
+    }
   },
   {
     "id": "35b1c99d-3c96-811c-a761-dbb94f067e55",
@@ -7539,7 +8218,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35b1c99d3c96811ca761dbb94f067e55.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35b1c99d3c96811ca761dbb94f067e55.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://hero-sms.com/cn",
+      "error": null
+    }
   },
   {
     "id": "35a1c99d-3c96-8195-96fb-da58ba68574d",
@@ -7622,7 +8308,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35a1c99d3c96819596fbda58ba68574d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35a1c99d3c96819596fbda58ba68574d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.laxspace.co/?view=works",
+      "error": null
+    }
   },
   {
     "id": "35a1c99d-3c96-8194-b734-cfc31100a122",
@@ -7701,7 +8394,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35a1c99d3c968194b734cfc31100a122.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/35a1c99d3c968194b734cfc31100a122.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.kvs.services/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8164-8fff-ec95a4ff90d0",
@@ -7791,7 +8491,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681648fffec95a4ff90d0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681648fffec95a4ff90d0.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://sketchwow.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c5-b501-dd60c6579203",
@@ -7863,7 +8570,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c5b501dd60c6579203.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c5b501dd60c6579203.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.runninghub.cn/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8168-bf04-faab78b9ae58",
@@ -7954,7 +8668,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968168bf04faab78b9ae58.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968168bf04faab78b9ae58.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.bardeen.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-819e-8567-ffe65b7f365c",
@@ -8033,7 +8754,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819e8567ffe65b7f365c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819e8567ffe65b7f365c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://durable.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81a1-995f-d353d090f121",
@@ -8116,7 +8844,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a1995fd353d090f121.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a1995fd353d090f121.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.framer.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-814a-8557-ff937db74ed0",
@@ -8194,7 +8929,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96814a8557ff937db74ed0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96814a8557ff937db74ed0.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://wegic.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81fc-9c6b-c6001ca4043c",
@@ -8266,7 +9008,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 2551,
     "install": "前往GitHub Releases页面下载适用于Windows或Linux的安装包",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fc9c6bc6001ca4043c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fc9c6bc6001ca4043c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/lightningpixel/modly",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-818e-b491-ddcd2b5c11f7",
@@ -8346,7 +9095,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818eb491ddcd2b5c11f7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818eb491ddcd2b5c11f7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.tempo.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-815a-9601-e5f679e4810e",
@@ -8429,7 +9185,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815a9601e5f679e4810e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815a9601e5f679e4810e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.typeless.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8192-ab36-d734fa8f3ed9",
@@ -8509,7 +9272,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968192ab36d734fa8f3ed9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968192ab36d734fa8f3ed9.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://xaicreator.com/en",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ef-b3da-ecbd3f1b62fa",
@@ -8588,7 +9358,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681efb3daecbd3f1b62fa.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681efb3daecbd3f1b62fa.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.tunee.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81bd-ae88-d4a617a0937f",
@@ -8657,7 +9434,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681bdae88d4a617a0937f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681bdae88d4a617a0937f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://www.biji.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8156-b8cc-c58556a82ac0",
@@ -8736,7 +9520,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968156b8ccc58556a82ac0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968156b8ccc58556a82ac0.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://flowith.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-812a-81fe-e37cdfc097ac",
@@ -8815,7 +9606,14 @@ window.CLARE_TOOL_DATA = [
     "language": "Python",
     "stars": 14380,
     "install": "git clone repo && cd repo && cp .env.example .env (配置API Key) && docker-compose up -d",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812a81fee37cdfc097ac.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812a81fee37cdfc097ac.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/Anionex/banana-slides",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-811a-9257-c458e4d15aae",
@@ -8893,7 +9691,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96811a9257c458e4d15aae.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96811a9257c458e4d15aae.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://dokie.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-812c-bed6-fbda6c924fc1",
@@ -8967,7 +9772,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812cbed6fbda6c924fc1.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812cbed6fbda6c924fc1.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.pageon.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8184-b24b-d887992b1551",
@@ -9045,7 +9857,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968184b24bd887992b1551.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968184b24bd887992b1551.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://skywork.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-812d-8691-eefd883d4815",
@@ -9126,7 +9945,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812d8691eefd883d4815.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812d8691eefd883d4815.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://htmlcsstoimage.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81e9-bcc0-c72e9f68305f",
@@ -9206,7 +10032,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e9bcc0c72e9f68305f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e9bcc0c72e9f68305f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.easyapp.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8192-a079-c074cbd6cd58",
@@ -9279,7 +10112,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968192a079c074cbd6cd58.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968192a079c074cbd6cd58.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://screen.studio/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8107-a552-da1a157b6b3e",
@@ -9361,7 +10201,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968107a552da1a157b6b3e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968107a552da1a157b6b3e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.harvey.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8192-a403-e911bf1ac675",
@@ -9440,7 +10287,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968192a403e911bf1ac675.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968192a403e911bf1ac675.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://sudowrite.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8170-8891-ff20eaf6af59",
@@ -9521,7 +10375,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681708891ff20eaf6af59.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681708891ff20eaf6af59.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://ai-bot.cn/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81fd-91ba-e04c1838b72c",
@@ -9601,7 +10462,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fd91bae04c1838b72c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fd91bae04c1838b72c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.roboneo.com/home",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8131-9b0c-ec7ba06808f3",
@@ -9684,7 +10552,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681319b0cec7ba06808f3.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681319b0cec7ba06808f3.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://sm.ms/migration",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ad-a454-d2df98968b21",
@@ -9758,7 +10633,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ada454d2df98968b21.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ada454d2df98968b21.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://postimages.org/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8103-9eb8-fa1e4204b545",
@@ -9835,7 +10717,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681039eb8fa1e4204b545.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681039eb8fa1e4204b545.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://imgur.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81b5-bbc3-dcb34a79976f",
@@ -9906,7 +10795,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b5bbc3dcb34a79976f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b5bbc3dcb34a79976f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://gradientbuttons.colorion.co/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-812a-ad20-c972e1d6f413",
@@ -9984,7 +10880,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812aad20c972e1d6f413.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812aad20c972e1d6f413.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://webkul.github.io/coolhue/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ce-b73b-eb5c321649ff",
@@ -10058,7 +10961,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ceb73beb5c321649ff.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ceb73beb5c321649ff.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://duotones.co/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81b8-9727-cb490ef29ece",
@@ -10135,7 +11045,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b89727cb490ef29ece.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b89727cb490ef29ece.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.schemecolor.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81e2-a5f9-d454bfe3b02f",
@@ -10208,7 +11125,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e2a5f9d454bfe3b02f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e2a5f9d454bfe3b02f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://trianglify.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-819f-82da-cc453916288d",
@@ -10285,7 +11209,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819f82dacc453916288d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819f82dacc453916288d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.webdesignrankings.com/resources/lolcolors/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8104-9329-eb9533a9cd7d",
@@ -10364,7 +11295,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681049329eb9533a9cd7d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681049329eb9533a9cd7d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://htmlcolorcodes.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8111-8212-f2393d8a1e56",
@@ -10440,7 +11378,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681118212f2393d8a1e56.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681118212f2393d8a1e56.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://webgradients.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-816a-ba11-e3bbd9526caf",
@@ -10519,7 +11464,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816aba11e3bbd9526caf.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816aba11e3bbd9526caf.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://colors.eva.design/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81df-8ed0-fc668fce41f8",
@@ -10594,7 +11546,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681df8ed0fc668fce41f8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681df8ed0fc668fce41f8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.happyhues.co/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c4-876e-ced8ff2e1dce",
@@ -10669,7 +11628,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c4876eced8ff2e1dce.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c4876eced8ff2e1dce.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://colors.muz.li/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81db-bd74-dbe4454b99d7",
@@ -10747,7 +11713,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681dbbd74dbe4454b99d7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681dbbd74dbe4454b99d7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://nipponcolors.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-819e-bbbf-d1078fd5a7f4",
@@ -10802,7 +11775,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819ebbbfd1078fd5a7f4.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819ebbbfd1078fd5a7f4.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://colllor.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8117-8bfd-d2f489e37e44",
@@ -10881,7 +11861,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681178bfdd2f489e37e44.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681178bfdd2f489e37e44.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "http://www.colourlovers.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-819c-9f57-de94f6b85360",
@@ -10959,7 +11946,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819c9f57de94f6b85360.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819c9f57de94f6b85360.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://0to255.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8194-b635-e55d33195c9f",
@@ -11038,7 +12032,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968194b635e55d33195c9f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968194b635e55d33195c9f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://paletton.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8109-8ffb-cdf3887b53de",
@@ -11111,7 +12112,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681098ffbcdf3887b53de.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681098ffbcdf3887b53de.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://brandcolors.net/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-813d-a0d2-f36fe83cbab3",
@@ -11189,7 +12197,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96813da0d2f36fe83cbab3.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96813da0d2f36fe83cbab3.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://materialui.co/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d0-95de-f2376ef09a7b",
@@ -11270,7 +12285,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d095def2376ef09a7b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d095def2376ef09a7b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://bjango.com/mac/skalacolor/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8106-abb4-f33822587eff",
@@ -11344,7 +12366,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968106abb4f33822587eff.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968106abb4f33822587eff.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://flatuicolors.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-819e-9b48-eff3adbb59b3",
@@ -11420,7 +12449,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819e9b48eff3adbb59b3.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819e9b48eff3adbb59b3.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "http://www.materialpalette.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-815b-9435-f48e40dfbb77",
@@ -11498,7 +12534,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815b9435f48e40dfbb77.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815b9435f48e40dfbb77.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://coolors.co/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-815b-88c7-c2e75ddb9235",
@@ -11574,7 +12617,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815b88c7c2e75ddb9235.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815b88c7c2e75ddb9235.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://mew.design/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8104-9da0-cd0e02bca8ab",
@@ -11654,7 +12704,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681049da0cd0e02bca8ab.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681049da0cd0e02bca8ab.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://promptlibrary.org/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81a2-b7d3-ebd8e1977dce",
@@ -11737,7 +12794,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a2b7d3ebd8e1977dce.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a2b7d3ebd8e1977dce.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://promptden.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8149-b65a-c6dd7d5a1a9b",
@@ -11816,7 +12880,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968149b65ac6dd7d5a1a9b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968149b65ac6dd7d5a1a9b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.aiarty.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81f1-ba1d-d7f9dc893ffa",
@@ -11895,7 +12966,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f1ba1dd7f9dc893ffa.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f1ba1dd7f9dc893ffa.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.recraft.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-819f-a5fa-ec771de17718",
@@ -11973,7 +13051,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819fa5faec771de17718.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819fa5faec771de17718.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.napkin.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-815a-a9be-fc1a486cf360",
@@ -12058,7 +13143,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815aa9befc1a486cf360.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815aa9befc1a486cf360.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.drawio.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81fe-8e18-da732c4ceb73",
@@ -12145,7 +13237,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fe8e18da732c4ceb73.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fe8e18da732c4ceb73.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://seede.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8143-a7be-c51c8e92ebb6",
@@ -12218,7 +13317,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968143a7bec51c8e92ebb6.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968143a7bec51c8e92ebb6.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://magiceraser.org/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81fd-a09e-fbf5d75f2a91",
@@ -12296,7 +13402,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fda09efbf5d75f2a91.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fda09efbf5d75f2a91.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://app.reve.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81f5-88d3-f31ab96f9864",
@@ -12371,7 +13484,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f588d3f31ab96f9864.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f588d3f31ab96f9864.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://labnana.com/home",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8161-be20-dc35505cc9c3",
@@ -12455,7 +13575,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968161be20dc35505cc9c3.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968161be20dc35505cc9c3.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://open.spotify.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-810f-8c9d-c025a625aaf8",
@@ -12525,7 +13652,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810f8c9dc025a625aaf8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810f8c9dc025a625aaf8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://editionwandelweiserrecords.bandcamp.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-818a-a3fa-da731c2a4e09",
@@ -12607,7 +13741,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818aa3fada731c2a4e09.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818aa3fada731c2a4e09.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://music.douyin.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8159-9625-dc316535e037",
@@ -12685,7 +13826,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681599625dc316535e037.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681599625dc316535e037.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.liblib.art/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-818a-a6e5-f036ffd849e0",
@@ -12759,7 +13907,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818aa6e5f036ffd849e0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818aa6e5f036ffd849e0.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 404,
+      "method": "GET",
+      "finalUrl": "https://myshell.ai/chattts",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8146-af52-d649ad314ef9",
@@ -12837,7 +13992,14 @@ window.CLARE_TOOL_DATA = [
     "language": "Python",
     "stars": 147,
     "install": "git clone https://github.com/Warma10032/easytts.git && cd easytts && uv sync",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968146af52d649ad314ef9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968146af52d649ad314ef9.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/Warma10032/easytts",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-810b-b5a3-ccf8d72641bc",
@@ -12921,7 +14083,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810bb5a3ccf8d72641bc.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810bb5a3ccf8d72641bc.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://finevoice.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8174-b641-f580d332148c",
@@ -12995,7 +14164,14 @@ window.CLARE_TOOL_DATA = [
     "language": "JavaScript",
     "stars": 2412,
     "install": "git clone https://github.com/fogsightai/fogsight.git && cd fogsight && pip install -r requirements.txt && python start_fogsight.py",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968174b641f580d332148c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968174b641f580d332148c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/fogsightai/fogsight",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d9-9938-cb7755eadc82",
@@ -13069,7 +14245,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d99938cb7755eadc82.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d99938cb7755eadc82.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://martini.art/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ae-ad89-f6e50b5f71e8",
@@ -13146,7 +14329,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681aead89f6e50b5f71e8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681aead89f6e50b5f71e8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://mvland.cn/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8189-ba46-f3fac056fede",
@@ -13227,7 +14417,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968189ba46f3fac056fede.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968189ba46f3fac056fede.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://pexo.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8142-853d-e1a011dd0d7f",
@@ -13306,7 +14503,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968142853de1a011dd0d7f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968142853de1a011dd0d7f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.oiioii.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8126-af24-c2bc2818def7",
@@ -13391,7 +14595,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968126af24c2bc2818def7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968126af24c2bc2818def7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://higgsfield.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81a0-84bf-e98f4b2c1637",
@@ -13465,7 +14676,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a084bfe98f4b2c1637.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a084bfe98f4b2c1637.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.tapnow.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8182-bd92-cedef55827ee",
@@ -13542,7 +14760,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968182bd92cedef55827ee.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968182bd92cedef55827ee.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://vivago.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c1-a03e-c61e1a74e0c5",
@@ -13614,7 +14839,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c1a03ec61e1a74e0c5.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c1a03ec61e1a74e0c5.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.vidnoz.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-810e-9ac1-e9ab3781e347",
@@ -13695,7 +14927,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810e9ac1e9ab3781e347.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810e9ac1e9ab3781e347.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.domoai.app/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81b8-8804-c0f67a245c45",
@@ -13774,7 +15013,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b88804c0f67a245c45.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b88804c0f67a245c45.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://magiclight.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-818c-b744-e762b71495c9",
@@ -13853,7 +15099,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818cb744e762b71495c9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818cb744e762b71495c9.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://pollo.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8157-aa31-d44089c63ef9",
@@ -13936,7 +15189,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968157aa31d44089c63ef9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968157aa31d44089c63ef9.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://tongyi.aliyun.com/wan/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8139-a3e7-e3f2d15ca45a",
@@ -14015,7 +15275,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968139a3e7e3f2d15ca45a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968139a3e7e3f2d15ca45a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.medeo.app/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8137-874a-ebe719eca5cc",
@@ -14093,7 +15360,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968137874aebe719eca5cc.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968137874aebe719eca5cc.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://ezgif.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81a4-9f1b-d02997531901",
@@ -14170,7 +15444,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a49f1bd02997531901.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a49f1bd02997531901.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://www.anygen.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-818e-a6a2-c694b6c310eb",
@@ -14248,7 +15529,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818ea6a2c694b6c310eb.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818ea6a2c694b6c310eb.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.coze.cn/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-817b-80ed-dc3954b85d73",
@@ -14325,7 +15613,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817b80eddc3954b85d73.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817b80eddc3954b85d73.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://manus.im/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81eb-a313-ec3959378eba",
@@ -14404,7 +15699,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681eba313ec3959378eba.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681eba313ec3959378eba.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://www.genspark.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8142-98f8-d8a0007695d2",
@@ -14477,7 +15779,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96814298f8d8a0007695d2.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96814298f8d8a0007695d2.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://www.gptshunter.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-810a-adcb-c83831507b10",
@@ -14551,7 +15860,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810aadcbc83831507b10.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810aadcbc83831507b10.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.gubeitools.cn/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81da-93e7-e57ea725b3a5",
@@ -14633,7 +15949,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681da93e7e57ea725b3a5.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681da93e7e57ea725b3a5.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.landingfolio.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81f1-a169-d0db8e9c7dcf",
@@ -14711,7 +16034,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f1a169d0db8e9c7dcf.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f1a169d0db8e9c7dcf.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://minimal.gallery/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8170-9f8c-ee6b143544b2",
@@ -14793,7 +16123,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681709f8cee6b143544b2.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681709f8cee6b143544b2.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.lapa.ninja/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81b8-9218-ed4cde9f739e",
@@ -14876,7 +16213,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b89218ed4cde9f739e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b89218ed4cde9f739e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://www.saasframe.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d1-b433-c17a233e1738",
@@ -14951,7 +16295,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d1b433c17a233e1738.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d1b433c17a233e1738.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.cta.gallery/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-818b-a178-d4198e2de992",
@@ -15026,7 +16377,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818ba178d4198e2de992.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818ba178d4198e2de992.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.navbar.gallery/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d6-9505-f7588dc88282",
@@ -15107,7 +16465,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d69505f7588dc88282.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d69505f7588dc88282.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://craftwork.design/curated/websites/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81af-a0b2-ea1c064967e8",
@@ -15186,7 +16551,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681afa0b2ea1c064967e8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681afa0b2ea1c064967e8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "http://component.gallery/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c0-be7c-f1ad1c4a6514",
@@ -15270,7 +16642,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c0be7cf1ad1c4a6514.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c0be7cf1ad1c4a6514.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://hugeicons.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-815c-b92c-f3d617d9f3be",
@@ -15346,7 +16725,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815cb92cf3d617d9f3be.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815cb92cf3d617d9f3be.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.rebrand.gallery/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c8-9ebc-ebdb2f3edbf0",
@@ -15425,7 +16811,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c89ebcebdb2f3edbf0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c89ebcebdb2f3edbf0.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://60fps.design/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8124-8c8f-fdb22eb36686",
@@ -15503,7 +16896,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681248c8ffdb22eb36686.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681248c8ffdb22eb36686.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 455,
+      "method": "GET",
+      "finalUrl": "https://uncut.wtf/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8157-aa37-dfd0e055f72e",
@@ -15584,7 +16984,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968157aa37dfd0e055f72e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968157aa37dfd0e055f72e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://sleek.design/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-812b-842f-ee7e3edd4103",
@@ -15659,7 +17066,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812b842fee7e3edd4103.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812b842fee7e3edd4103.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "http://saaspo.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8171-b626-e7784aaf39a6",
@@ -15741,7 +17155,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968171b626e7784aaf39a6.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968171b626e7784aaf39a6.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://curations.supply/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8196-babd-c4769339a8d5",
@@ -15818,7 +17239,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968196babdc4769339a8d5.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968196babdc4769339a8d5.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://quiver.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81fa-b7e7-fbe23428178b",
@@ -15900,7 +17328,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fab7e7fbe23428178b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fab7e7fbe23428178b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://webflow.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8163-bc17-e6db33a580c2",
@@ -15979,7 +17414,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968163bc17e6db33a580c2.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968163bc17e6db33a580c2.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.squarespace.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-818b-bf77-c9d97e107af1",
@@ -16052,7 +17494,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818bbf77c9d97e107af1.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818bbf77c9d97e107af1.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://land-book.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8161-8675-cc91ddf4cb0f",
@@ -16126,7 +17575,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681618675cc91ddf4cb0f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681618675cc91ddf4cb0f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://collectui.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8194-a36f-eda7a0177be7",
@@ -16206,7 +17662,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968194a36feda7a0177be7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968194a36feda7a0177be7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://cruip.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8187-a620-ec3839c5a8c2",
@@ -16289,7 +17752,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968187a620ec3839c5a8c2.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968187a620ec3839c5a8c2.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://startbootstrap.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8163-a2fe-ee47555010bc",
@@ -16363,7 +17833,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968163a2feee47555010bc.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968163a2feee47555010bc.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://html5up.net/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-813d-9d65-d4677f3385ee",
@@ -16441,7 +17918,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96813d9d65d4677f3385ee.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96813d9d65d4677f3385ee.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://webflow.com/templates",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81e8-a056-e86aec21b7d5",
@@ -16516,7 +18000,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e8a056e86aec21b7d5.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e8a056e86aec21b7d5.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://themeforest.net/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-811f-817a-c60dcdb51a5a",
@@ -16595,7 +18086,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96811f817ac60dcdb51a5a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96811f817ac60dcdb51a5a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.uigarage.net/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c2-9571-d5df5716a5ae",
@@ -16678,7 +18176,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c29571d5df5716a5ae.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c29571d5df5716a5ae.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.pttrns.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8105-96d2-c1e9c0201e67",
@@ -16759,7 +18264,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810596d2c1e9c0201e67.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810596d2c1e9c0201e67.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://pageflows.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8127-b5ed-f59a8e673a9c",
@@ -16842,7 +18354,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968127b5edf59a8e673a9c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968127b5edf59a8e673a9c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://m3.material.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ec-8aab-c7fe8153e277",
@@ -16922,7 +18441,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ec8aabc7fe8153e277.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ec8aabc7fe8153e277.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://developer.apple.com/design/resources/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8137-a0ba-d24b58622ea0",
@@ -16995,7 +18521,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968137a0bad24b58622ea0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968137a0bad24b58622ea0.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://proto.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8198-8415-e6518edd7671",
@@ -17069,7 +18602,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681988415e6518edd7671.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681988415e6518edd7671.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://marvelapp.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d0-b577-e24eac15db20",
@@ -17155,7 +18695,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d0b577e24eac15db20.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d0b577e24eac15db20.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://icons8.com/lunacy",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d4-a1af-fb1509fe0949",
@@ -17233,7 +18780,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d4a1affb1509fe0949.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d4a1affb1509fe0949.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://penpot.app/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-811a-b3aa-f04b3b41525c",
@@ -17311,7 +18865,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96811ab3aaf04b3b41525c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96811ab3aaf04b3b41525c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://principleformac.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81be-b7d2-dd8fd2a382ef",
@@ -17387,7 +18948,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681beb7d2dd8fd2a382ef.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681beb7d2dd8fd2a382ef.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://miro.com:443/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d6-9bf2-f91550f072e8",
@@ -17471,7 +19039,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d69bf2f91550f072e8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d69bf2f91550f072e8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.sketch.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8186-831d-c80dfbf444ef",
@@ -17552,7 +19127,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968186831dc80dfbf444ef.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968186831dc80dfbf444ef.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://mobbin.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-812f-9120-c8f07f360ec7",
@@ -17634,7 +19216,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812f9120c8f07f360ec7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812f9120c8f07f360ec7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.uistore.design/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c2-9e97-dd23602121c8",
@@ -17717,7 +19306,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c29e97dd23602121c8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c29e97dd23602121c8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://freebiesbug.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81a9-8c4c-eb0f80c99b5a",
@@ -17797,7 +19393,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a98c4ceb0f80c99b5a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a98c4ceb0f80c99b5a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.templatemonster.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d4-863b-c0f3cbd685cc",
@@ -17877,7 +19480,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d4863bc0f3cbd685cc.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d4863bc0f3cbd685cc.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://uplabs.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-814a-83b6-d3b2d73680cc",
@@ -17960,7 +19570,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96814a83b6d3b2d73680cc.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96814a83b6d3b2d73680cc.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://ui8.net/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81fd-84dd-e88af907ab44",
@@ -18038,7 +19655,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fd84dde88af907ab44.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fd84dde88af907ab44.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://blog.glitch.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-816e-9818-fa4592de7bfd",
@@ -18119,7 +19743,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816e9818fa4592de7bfd.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816e9818fa4592de7bfd.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.animaapp.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ec-b1ed-e4449a5c159f",
@@ -18200,7 +19831,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ecb1ede4449a5c159f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ecb1ede4449a5c159f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://teleporthq.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d7-af81-e40a60607017",
@@ -18280,7 +19918,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d7af81e40a60607017.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d7af81e40a60607017.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.bt.cn/new/index.html",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81f2-9905-d8d9f64aca0c",
@@ -18351,7 +19996,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f29905d8d9f64aca0c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f29905d8d9f64aca0c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://khons.xyz/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-816d-be43-dc8957c6ffa3",
@@ -18435,7 +20087,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816dbe43dc8957c6ffa3.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816dbe43dc8957c6ffa3.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://factory.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81cb-83a6-f1eccdbb6e9b",
@@ -18509,7 +20168,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681cb83a6f1eccdbb6e9b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681cb83a6f1eccdbb6e9b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://trickle.so/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81cd-9cb5-c35e8be4a0d0",
@@ -18584,7 +20250,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681cd9cb5c35e8be4a0d0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681cd9cb5c35e8be4a0d0.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://antigravity.google/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8104-b6f9-fd4f020c0b7e",
@@ -18662,7 +20335,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968104b6f9fd4f020c0b7e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968104b6f9fd4f020c0b7e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://paraflow.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81aa-9b89-f023f5d282c9",
@@ -18744,7 +20424,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681aa9b89f023f5d282c9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681aa9b89f023f5d282c9.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://huggingface.co/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-813a-9c28-fbbdbb53fcd6",
@@ -18818,7 +20505,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96813a9c28fbbdbb53fcd6.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96813a9c28fbbdbb53fcd6.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://devv.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8152-a22e-ccc8c0957cab",
@@ -18897,7 +20591,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968152a22eccc8c0957cab.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968152a22eccc8c0957cab.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://reactbits.dev/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-817e-80d9-e9602e45aef1",
@@ -18976,7 +20677,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817e80d9e9602e45aef1.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817e80d9e9602e45aef1.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://www.youware.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ce-9b44-ca382d737a32",
@@ -19055,7 +20763,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ce9b44ca382d737a32.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ce9b44ca382d737a32.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://lovable.dev/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d2-97c5-de797423a4c6",
@@ -19136,7 +20851,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d297c5de797423a4c6.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d297c5de797423a4c6.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.trae.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81eb-8684-d9d9f3c49fc1",
@@ -19218,7 +20940,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681eb8684d9d9f3c49fc1.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681eb8684d9d9f3c49fc1.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://kiro.dev/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d4-891b-d6056b984fcd",
@@ -19294,7 +21023,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d4891bd6056b984fcd.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d4891bd6056b984fcd.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://skillsmp.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8175-9fc7-c2bb953a588c",
@@ -19368,7 +21104,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681759fc7c2bb953a588c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681759fc7c2bb953a588c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://smithery.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81a6-9428-d29ccc10a374",
@@ -19446,7 +21189,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a69428d29ccc10a374.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a69428d29ccc10a374.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 0,
+      "method": "GET",
+      "finalUrl": "https://rube.app/",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to rube.app:443"
+    }
   },
   {
     "id": "3591c99d-3c96-8106-ae23-f860945f9ad8",
@@ -19521,7 +21271,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968106ae23f860945f9ad8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968106ae23f860945f9ad8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://matrix.tencent.com/ai-detect/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-817e-aa6f-f351a971e9cd",
@@ -19593,7 +21350,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817eaa6ff351a971e9cd.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817eaa6ff351a971e9cd.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://livebench.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-817c-9d97-c343436671ad",
@@ -19676,7 +21440,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817c9d97c343436671ad.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817c9d97c343436671ad.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://mistral.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81e9-9724-c06f602c3947",
@@ -19758,7 +21529,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e99724c06f602c3947.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e99724c06f602c3947.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://www.producthunt.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-814d-9a46-f99732e7da47",
@@ -19839,7 +21617,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96814d9a46f99732e7da47.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96814d9a46f99732e7da47.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://learnopencode.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8185-82ad-f668af93c91d",
@@ -19919,7 +21704,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818582adf668af93c91d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818582adf668af93c91d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://dessix.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-818a-b611-dc1096941da3",
@@ -20001,7 +21793,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818ab611dc1096941da3.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818ab611dc1096941da3.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://tweethunter.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81da-ad94-c25341109466",
@@ -20081,7 +21880,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681daad94c25341109466.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681daad94c25341109466.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://metricool.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-810a-a6be-ec3b979c6cec",
@@ -20161,7 +21967,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810aa6beec3b979c6cec.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810aa6beec3b979c6cec.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://postwise.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81be-a1fb-cdd7633ada1b",
@@ -20240,7 +22053,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681bea1fbcdd7633ada1b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681bea1fbcdd7633ada1b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://typefully.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8175-abb5-e48ba969a870",
@@ -20330,7 +22150,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968175abb5e48ba969a870.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968175abb5e48ba969a870.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.adcreative.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81fe-a37c-ec38f5b2c01d",
@@ -20413,7 +22240,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fea37cec38f5b2c01d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681fea37cec38f5b2c01d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://predis.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8165-ae32-ed37c11b7a7f",
@@ -20494,7 +22328,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968165ae32ed37c11b7a7f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968165ae32ed37c11b7a7f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://koast.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81e1-9cdb-df2f86c297b6",
@@ -20573,7 +22414,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e19cdbdf2f86c297b6.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e19cdbdf2f86c297b6.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://designs.ai/en",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ec-81e3-cd938ddbf761",
@@ -20651,7 +22499,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ec81e3cd938ddbf761.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ec81e3cd938ddbf761.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://vanceai.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81e5-a448-dec349aeb494",
@@ -20729,7 +22584,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e5a448dec349aeb494.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e5a448dec349aeb494.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://www.autodraw.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8184-8789-e2eaf9d16c7c",
@@ -20812,7 +22674,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681848789e2eaf9d16c7c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681848789e2eaf9d16c7c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://clipdrop.co/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81f3-b905-ffad2da5100c",
@@ -20890,7 +22759,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f3b905ffad2da5100c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f3b905ffad2da5100c.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://looka.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81b7-82c0-c58fd8926338",
@@ -20970,7 +22846,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b782c0c58fd8926338.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b782c0c58fd8926338.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.synthesia.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-815b-9f84-cd092f33c55a",
@@ -21044,7 +22927,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815b9f84cd092f33c55a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96815b9f84cd092f33c55a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.decohere.co/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ba-99db-c09de1e770bb",
@@ -21121,7 +23011,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ba99dbc09de1e770bb.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ba99dbc09de1e770bb.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://nullface.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-812d-b756-eee468407b0b",
@@ -21199,7 +23096,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812db756eee468407b0b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812db756eee468407b0b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.heygen.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-817f-a0e6-d3e2a7067633",
@@ -21279,7 +23183,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817fa0e6d3e2a7067633.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817fa0e6d3e2a7067633.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://pictory.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81b9-8a1a-decfeb4e912a",
@@ -21354,7 +23265,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b98a1adecfeb4e912a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b98a1adecfeb4e912a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://stockimg.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81bd-a16f-d2646a98b42b",
@@ -21436,7 +23354,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681bda16fd2646a98b42b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681bda16fd2646a98b42b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://phygital.plus/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81cd-bfba-c27d2ac98646",
@@ -21512,7 +23437,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681cdbfbac27d2ac98646.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681cdbfbac27d2ac98646.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.dzine.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-817e-8b82-c2f1f4021e63",
@@ -21592,7 +23524,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817e8b82c2f1f4021e63.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817e8b82c2f1f4021e63.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://galileo.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-816c-9139-ed8a77942277",
@@ -21672,7 +23611,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816c9139ed8a77942277.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816c9139ed8a77942277.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.khroma.co/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c2-9e8c-f04ac0d317cb",
@@ -21754,7 +23700,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c29e8cf04ac0d317cb.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c29e8cf04ac0d317cb.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.visily.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8141-9794-e6658f17ef3a",
@@ -21836,7 +23789,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681419794e6658f17ef3a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681419794e6658f17ef3a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.jacquard.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8103-9e45-d47cc9e96ed8",
@@ -21909,7 +23869,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681039e45d47cc9e96ed8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681039e45d47cc9e96ed8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://emplifi.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8105-8494-ee98b1930435",
@@ -21987,7 +23954,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681058494ee98b1930435.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681058494ee98b1930435.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.outreach.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81f6-abee-ecc35bbac0ab",
@@ -22065,7 +24039,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f6abeeecc35bbac0ab.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f6abeeecc35bbac0ab.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.drift.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c6-84b2-da59d6a04a2c",
@@ -22140,7 +24121,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c684b2da59d6a04a2c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c684b2da59d6a04a2c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://clickup.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81cd-966d-c29f3be6b710",
@@ -22209,7 +24197,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681cd966dc29f3be6b710.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681cd966dc29f3be6b710.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://huggingface.co/chat/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8109-bdd2-e8d67a5c5f6f",
@@ -22284,7 +24279,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968109bdd2e8d67a5c5f6f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968109bdd2e8d67a5c5f6f.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://poe.com/login?redirect_url=%2F",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ca-8f80-cd955314c150",
@@ -22369,7 +24371,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ca8f80cd955314c150.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ca8f80cd955314c150.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.avoma.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8145-967e-ceb20faba333",
@@ -22455,7 +24464,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968145967eceb20faba333.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968145967eceb20faba333.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://krisp.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ed-94b1-d53fac5d76d6",
@@ -22536,7 +24552,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ed94b1d53fac5d76d6.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681ed94b1d53fac5d76d6.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://tldv.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81a0-8433-c151c2fb633d",
@@ -22621,7 +24644,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a08433c151c2fb633d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a08433c151c2fb633d.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://leonardo.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8149-a772-dad41083e994",
@@ -22698,7 +24728,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968149a772dad41083e994.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968149a772dad41083e994.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://glambase.app/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-817f-8bce-d9145c64fbd5",
@@ -22776,7 +24813,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817f8bced9145c64fbd5.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96817f8bced9145c64fbd5.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://affogato.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-819c-97ee-f2aef48f746f",
@@ -22854,7 +24898,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819c97eef2aef48f746f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819c97eef2aef48f746f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://blaze.today/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81dc-9ad2-f38f9b784ae9",
@@ -22932,7 +24983,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681dc9ad2f38f9b784ae9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681dc9ad2f38f9b784ae9.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.jasper.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ef-a0a5-d0749a81466f",
@@ -23009,7 +25067,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681efa0a5d0749a81466f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681efa0a5d0749a81466f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://slidebean.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-812e-8a0b-fbbb09b6c664",
@@ -23093,7 +25158,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812e8a0bfbbb09b6c664.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812e8a0bfbbb09b6c664.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.slidesai.io/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81b4-9ec9-e29831051e94",
@@ -23170,7 +25242,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b49ec9e29831051e94.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681b49ec9e29831051e94.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://shopassociation.org/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-812a-a45a-cea7b30f78d6",
@@ -23254,7 +25333,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812aa45acea7b30f78d6.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96812aa45acea7b30f78d6.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://pitch.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8114-895e-eb7d7c16319d",
@@ -23326,7 +25412,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968114895eeb7d7c16319d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968114895eeb7d7c16319d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://prezi.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81f2-9ca2-d58c4dabf24f",
@@ -23399,7 +25492,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f29ca2d58c4dabf24f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f29ca2d58c4dabf24f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.ahhhhfs.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8119-8676-e31917c25298",
@@ -23475,7 +25575,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681198676e31917c25298.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681198676e31917c25298.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://3min.top/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-818d-bfa9-c9fa16f4866e",
@@ -23557,7 +25664,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818dbfa9c9fa16f4866e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96818dbfa9c9fa16f4866e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://listenhub.ai/zh",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-816b-ad2c-e7e0702605b2",
@@ -23638,7 +25752,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816bad2ce7e0702605b2.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816bad2ce7e0702605b2.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://ponder.ing/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81f0-b1e5-c5822d7e3fb8",
@@ -23719,7 +25840,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f0b1e5c5822d7e3fb8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681f0b1e5c5822d7e3fb8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.super-i.cn/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81e2-a8f3-e4bf0aa810ec",
@@ -23797,7 +25925,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e2a8f3e4bf0aa810ec.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e2a8f3e4bf0aa810ec.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://wise.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d9-a9d7-d94a385c47a5",
@@ -23880,7 +26015,14 @@ window.CLARE_TOOL_DATA = [
     "language": "JavaScript",
     "stars": 4,
     "install": "克隆仓库后，运行 `npm install` 和 `pip install` 依赖。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d9a9d7d94a385c47a5.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d9a9d7d94a385c47a5.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/rullerzhou-afk/pet-forge",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d3-a320-ca7d8f1a9bb1",
@@ -23961,7 +26103,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 30735,
     "install": "git clone 仓库，使用 pnpm 安装依赖，并通过 pnpm tools-dev 启动本地设计工作流。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d3a320ca7d8f1a9bb1.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d3a320ca7d8f1a9bb1.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/nexu-io/open-design",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81ee-b145-e42c2325210a",
@@ -24044,7 +26193,14 @@ window.CLARE_TOOL_DATA = [
     "language": "TypeScript",
     "stars": 5045,
     "install": "下载预编译的桌面应用安装包，或通过 Homebrew / winget / Scoop 等包管理器安装。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681eeb145e42c2325210a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681eeb145e42c2325210a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/OpenCoworkAI/open-codesign",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8132-8d0f-eb206eab8980",
@@ -24119,7 +26275,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 25972,
     "install": "直接浏览GitHub仓库文件，无需安装任何软件",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681328d0feb206eab8980.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681328d0feb206eab8980.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/elder-plinius/CL4R1T4S",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8181-9846-cdcb7c155541",
@@ -24191,7 +26354,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681819846cdcb7c155541.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681819846cdcb7c155541.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://obsidianmate.com/themes",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8178-899f-df0543e6a940",
@@ -24270,7 +26440,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968178899fdf0543e6a940.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968178899fdf0543e6a940.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "http://godly.website/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81a2-a79e-c70560fd17be",
@@ -24346,7 +26523,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a2a79ec70560fd17be.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a2a79ec70560fd17be.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.logodesignlove.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8188-aa54-d23263179dd2",
@@ -24421,7 +26605,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968188aa54d23263179dd2.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968188aa54d23263179dd2.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.itsnicethat.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8162-a34e-eabd0105830b",
@@ -24502,7 +26693,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968162a34eeabd0105830b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968162a34eeabd0105830b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://sgustokdesign.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8162-92b2-cd8bc8e05a01",
@@ -24578,7 +26776,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816292b2cd8bc8e05a01.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816292b2cd8bc8e05a01.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.beautifullife.info/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8157-8390-c5d9593de1e1",
@@ -24653,7 +26858,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681578390c5d9593de1e1.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681578390c5d9593de1e1.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.designboom.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-810a-94a7-c57135c5f2a3",
@@ -24729,7 +26941,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810a94a7c57135c5f2a3.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96810a94a7c57135c5f2a3.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://blogdecodesign.fr/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81d8-b8c4-ec285455f78a",
@@ -24801,7 +27020,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d8b8c4ec285455f78a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681d8b8c4ec285455f78a.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://www.fastcompany.com/co-design",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81c3-8a52-df4dff3aa3c7",
@@ -24882,7 +27108,14 @@ window.CLARE_TOOL_DATA = [
     "language": "HTML",
     "stars": 12372,
     "install": "npx skills add alchaincyf/huashu-design",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c38a52df4dff3aa3c7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681c38a52df4dff3aa3c7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/alchaincyf/huashu-design",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81a2-a338-f2bc42897f83",
@@ -24960,7 +27193,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a2a338f2bc42897f83.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681a2a338f2bc42897f83.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.designprompts.dev/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-816a-8f1a-ea29f0622cee",
@@ -25038,7 +27278,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816a8f1aea29f0622cee.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96816a8f1aea29f0622cee.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://motionsites.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8112-a6f6-ee7243e5c28b",
@@ -25120,7 +27367,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968112a6f6ee7243e5c28b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968112a6f6ee7243e5c28b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://impeccable.style/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8104-a0aa-c743f1e0f4b4",
@@ -25196,7 +27450,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968104a0aac743f1e0f4b4.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968104a0aac743f1e0f4b4.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://sankoudesign.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-819f-8795-cca719fe61d0",
@@ -25270,7 +27531,14 @@ window.CLARE_TOOL_DATA = [
     "language": "JavaScript",
     "stars": 2159,
     "install": "git clone https://github.com/rullerzhou-afk/clawd-on-desk.git && cd clawd-on-desk && npm install",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819f8795cca719fe61d0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c96819f8795cca719fe61d0.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/rullerzhou-afk/clawd-on-desk",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8181-9c5a-eb4313ae2733",
@@ -25347,7 +27615,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681819c5aeb4313ae2733.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681819c5aeb4313ae2733.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.autocli.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8128-9750-c2e81e2a2f1f",
@@ -25424,7 +27699,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681289750c2e81e2a2f1f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681289750c2e81e2a2f1f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://xairouter.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8125-922f-da89b5ea803e",
@@ -25504,7 +27786,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968125922fda89b5ea803e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968125922fda89b5ea803e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://hvoy.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8160-a3f7-fb11c7e74f4b",
@@ -25586,7 +27875,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968160a3f7fb11c7e74f4b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968160a3f7fb11c7e74f4b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://code.pipellm.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81e6-aaf1-d5ec0d87000b",
@@ -25662,7 +27958,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e6aaf1d5ec0d87000b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e6aaf1d5ec0d87000b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.aigocode.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8195-9760-f205a68a4188",
@@ -25735,7 +28038,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681959760f205a68a4188.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681959760f205a68a4188.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.thewayofcode.com/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-8120-930e-e927eda0b120",
@@ -25810,7 +28120,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968120930ee927eda0b120.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c968120930ee927eda0b120.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://happycapy.ai/",
+      "error": null
+    }
   },
   {
     "id": "3591c99d-3c96-81e7-96c1-e8965ec20b76",
@@ -25889,7 +28206,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e796c1e8965ec20b76.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3591c99d3c9681e796c1e8965ec20b76.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://anything.notte.cc/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-814f-b729-d5457ccbbfff",
@@ -25967,7 +28291,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96814fb729d5457ccbbfff.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96814fb729d5457ccbbfff.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://styles.refero.design/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81f1-8aae-f3977c72d787",
@@ -26041,7 +28372,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f18aaef3977c72d787.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f18aaef3977c72d787.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://jimeng.jianying.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8181-8a2d-dd734adec28a",
@@ -26122,7 +28460,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681818a2ddd734adec28a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681818a2ddd734adec28a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://klingai.com/app/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8130-b254-e773fb030f71",
@@ -26207,7 +28552,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968130b254e773fb030f71.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968130b254e773fb030f71.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://async.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81a8-b070-e49890b3194e",
@@ -26287,7 +28639,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a8b070e49890b3194e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a8b070e49890b3194e.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://www.perplexity.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81ef-9dff-d984f759fd21",
@@ -26364,7 +28723,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ef9dffd984f759fd21.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ef9dffd984f759fd21.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 0,
+      "method": "GET",
+      "finalUrl": "https://trypear.ai/",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to trypear.ai:443"
+    }
   },
   {
     "id": "3581c99d-3c96-819f-ae12-e8aa0842b3da",
@@ -26440,7 +28806,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96819fae12e8aa0842b3da.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96819fae12e8aa0842b3da.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://bolt.new/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81dd-8e94-f03502f62ecf",
@@ -26526,7 +28899,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681dd8e94f03502f62ecf.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681dd8e94f03502f62ecf.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.remove.bg/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-816e-a63b-e2d71b06de40",
@@ -26615,7 +28995,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96816ea63be2d71b06de40.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96816ea63be2d71b06de40.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://imageresizer.com/zh/图像压缩",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8123-97e0-cd62169ab738",
@@ -26695,7 +29082,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96812397e0cd62169ab738.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96812397e0cd62169ab738.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://creativemarket.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81f1-be38-d9dc2020a9a7",
@@ -26785,7 +29179,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f1be38d9dc2020a9a7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f1be38d9dc2020a9a7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://elements.envato.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8133-8208-c85395892d59",
@@ -26874,7 +29275,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681338208c85395892d59.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681338208c85395892d59.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://www.freepik.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8125-ab52-e38c267dbae0",
@@ -26963,7 +29371,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968125ab52e38c267dbae0.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968125ab52e38c267dbae0.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://immersive-translate.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8165-bb0c-d2d0edb241df",
@@ -27049,7 +29464,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968165bb0cd2d0edb241df.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968165bb0cd2d0edb241df.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.tripo3d.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8141-a281-f02f3a3ec266",
@@ -27131,7 +29553,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968141a281f02f3a3ec266.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968141a281f02f3a3ec266.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 404,
+      "method": "GET",
+      "finalUrl": "https://www.anthropic.com/product/claude",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8174-ba30-f3ac3a893ce8",
@@ -27211,7 +29640,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968174ba30f3ac3a893ce8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968174ba30f3ac3a893ce8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.lovart.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8113-b037-c1c3e7a9df65",
@@ -27289,7 +29725,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968113b037c1c3e7a9df65.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968113b037c1c3e7a9df65.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.minimaxi.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8132-930f-d7a6e305fc63",
@@ -27368,7 +29811,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968132930fd7a6e305fc63.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968132930fd7a6e305fc63.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 404,
+      "method": "GET",
+      "finalUrl": "https://github.com/flux-ai/flux",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8142-bfb5-e4db3686b2f6",
@@ -27448,7 +29898,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968142bfb5e4db3686b2f6.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968142bfb5e4db3686b2f6.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://www.midjourney.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81e2-ab4c-df2e9384b414",
@@ -27524,7 +29981,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681e2ab4cdf2e9384b414.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681e2ab4cdf2e9384b414.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://metaso.cn/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8173-8b9e-da2bc66fef34",
@@ -27608,7 +30072,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681738b9eda2bc66fef34.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681738b9eda2bc66fef34.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://openai.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8196-af15-cb3391481f95",
@@ -27688,7 +30159,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968196af15cb3391481f95.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968196af15cb3391481f95.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://murf.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81ed-b1c7-ecdff07e4b2d",
@@ -27768,7 +30246,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681edb1c7ecdff07e4b2d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681edb1c7ecdff07e4b2d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://contentbot.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81cc-94c7-d4935128db19",
@@ -27847,7 +30332,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681cc94c7d4935128db19.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681cc94c7d4935128db19.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://writesonic.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81d8-b6fa-e917c65abb17",
@@ -27927,7 +30419,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681d8b6fae917c65abb17.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681d8b6fae917c65abb17.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://simplified.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8181-b35e-d0ddd28ce281",
@@ -28009,7 +30508,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968181b35ed0ddd28ce281.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968181b35ed0ddd28ce281.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://rytr.me/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81dc-8ac0-de6a5eb5198c",
@@ -28093,7 +30599,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681dc8ac0de6a5eb5198c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681dc8ac0de6a5eb5198c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://otter.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8196-a109-e61677308ae5",
@@ -28177,7 +30690,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968196a109e61677308ae5.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968196a109e61677308ae5.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://fireflies.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8135-b17b-cad5f606a6f1",
@@ -28259,7 +30779,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968135b17bcad5f606a6f1.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968135b17bcad5f606a6f1.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://10web.io/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8183-8a2e-c8f2ce2215b8",
@@ -28337,7 +30864,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681838a2ec8f2ce2215b8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681838a2ec8f2ce2215b8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://fliki.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81ab-8df7-dc4125ce8fd3",
@@ -28415,7 +30949,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ab8df7dc4125ce8fd3.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ab8df7dc4125ce8fd3.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.copy.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81d7-acaa-d4648ed96751",
@@ -28496,7 +31037,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681d7acaad4648ed96751.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681d7acaad4648ed96751.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 0,
+      "method": "GET",
+      "finalUrl": "https://relume.io",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.relume.io:443"
+    }
   },
   {
     "id": "3581c99d-3c96-8108-a84a-cc552fd94f2f",
@@ -28574,7 +31122,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968108a84acc552fd94f2f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968108a84acc552fd94f2f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://lumalabs.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81b4-a7eb-f029374d9bb8",
@@ -28653,7 +31208,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681b4a7ebf029374d9bb8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681b4a7ebf029374d9bb8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://www.descript.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81c2-85b4-ee4c0baba6cf",
@@ -28733,7 +31295,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681c285b4ee4c0baba6cf.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681c285b4ee4c0baba6cf.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.krea.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81ec-835e-dcfac94e11d7",
@@ -28821,7 +31390,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ec835edcfac94e11d7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ec835edcfac94e11d7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://elevenlabs.io/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8167-ae55-c914d3c69c39",
@@ -28895,7 +31471,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968167ae55c914d3c69c39.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968167ae55c914d3c69c39.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://suno.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8145-a93e-ea7ffc37f923",
@@ -28969,7 +31552,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968145a93eea7ffc37f923.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968145a93eea7ffc37f923.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://pika.art/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81b3-b6e0-ea6db397ba54",
@@ -29047,7 +31637,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681b3b6e0ea6db397ba54.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681b3b6e0ea6db397ba54.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://gamma.app/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81cd-a23f-df41b09de28d",
@@ -29124,7 +31721,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681cda23fdf41b09de28d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681cda23fdf41b09de28d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://lightpdf.com/tw/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8172-9e45-de68a1887b0d",
@@ -29207,7 +31811,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681729e45de68a1887b0d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681729e45de68a1887b0d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://smallseotools.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-815c-aa7d-d33a546c83ec",
@@ -29284,7 +31895,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96815caa7dd33a546c83ec.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96815caa7dd33a546c83ec.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.copyscape.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8125-b3aa-fd832d746c9c",
@@ -29366,7 +31984,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968125b3aafd832d746c9c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968125b3aafd832d746c9c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://prowritingaid.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81c8-9eae-fba78ff6a027",
@@ -29442,7 +32067,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681c89eaefba78ff6a027.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681c89eaefba78ff6a027.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.gingersoftware.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8106-be9d-dce72b2df345",
@@ -29520,7 +32152,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968106be9ddce72b2df345.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968106be9ddce72b2df345.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://hemingwayapp.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81f6-bb92-f63944a6227f",
@@ -29602,7 +32241,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f6bb92f63944a6227f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f6bb92f63944a6227f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://www.grammarly.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8105-9bf1-d68158b877ed",
@@ -29685,7 +32331,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681059bf1d68158b877ed.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681059bf1d68158b877ed.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://quillbot.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81df-bf56-fbc5afcc3256",
@@ -29762,7 +32415,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681dfbf56fbc5afcc3256.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681dfbf56fbc5afcc3256.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.wordtune.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81a5-b9cc-e1a7a8554419",
@@ -29840,7 +32500,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a5b9cce1a7a8554419.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a5b9cce1a7a8554419.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://context.reverso.net/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-817d-8fa9-f6c62bff2c12",
@@ -29921,7 +32588,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96817d8fa9f6c62bff2c12.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96817d8fa9f6c62bff2c12.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.deepl.com/en",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-815a-8149-dc6d9a197666",
@@ -30002,7 +32676,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96815a8149dc6d9a197666.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96815a8149dc6d9a197666.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://picwish.com/tw/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8158-a7cd-c83860c82fe2",
@@ -30082,7 +32763,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968158a7cdc83860c82fe2.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968158a7cdc83860c82fe2.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://wrapifai.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81a4-ad77-eac6972307ef",
@@ -30163,7 +32851,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a4ad77eac6972307ef.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a4ad77eac6972307ef.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://riff.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-819f-ace0-ee78f9082030",
@@ -30243,7 +32938,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96819face0ee78f9082030.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96819face0ee78f9082030.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://onuro.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81ca-9ab1-da76428d991c",
@@ -30323,7 +33025,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ca9ab1da76428d991c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ca9ab1da76428d991c.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://softgen.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-819a-8e3a-ed7c87461efc",
@@ -30403,7 +33112,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96819a8e3aed7c87461efc.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96819a8e3aed7c87461efc.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://chatgpt.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8161-b6d8-c7d54ee9af7c",
@@ -30478,7 +33194,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968161b6d8c7d54ee9af7c.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968161b6d8c7d54ee9af7c.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 404,
+      "method": "GET",
+      "finalUrl": "https://aws.amazon.com/pm/q-developer/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8193-ac69-fe31fe7a52df",
@@ -30563,7 +33286,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968193ac69fe31fe7a52df.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968193ac69fe31fe7a52df.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://uizard.io/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8190-b333-c0cc5ca33ec1",
@@ -30642,7 +33372,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968190b333c0cc5ca33ec1.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968190b333c0cc5ca33ec1.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 0,
+      "method": "GET",
+      "finalUrl": "https://idx.google.com",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to firebase.google.com:443"
+    }
   },
   {
     "id": "3581c99d-3c96-8159-b866-ef5a6b464b5f",
@@ -30722,7 +33459,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968159b866ef5a6b464b5f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968159b866ef5a6b464b5f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/features/copilot",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8182-977f-efef11f207a7",
@@ -30802,7 +33546,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968182977fefef11f207a7.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968182977fefef11f207a7.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://cognition.ai/blog/introducing-devin",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81e9-9a62-c9824bb36939",
@@ -30877,7 +33628,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681e99a62c9824bb36939.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681e99a62c9824bb36939.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://replit.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81a0-abb6-d906e76f6e3a",
@@ -30953,7 +33711,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a0abb6d906e76f6e3a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a0abb6d906e76f6e3a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://devin.ai/desktop",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81ff-9a19-e8de429da4bd",
@@ -31038,7 +33803,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ff9a19e8de429da4bd.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681ff9a19e8de429da4bd.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://v0.app/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8139-95a1-ebf2cccce31a",
@@ -31120,7 +33892,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96813995a1ebf2cccce31a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96813995a1ebf2cccce31a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://cursor.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8135-9559-ee9a33d53f8e",
@@ -31200,7 +33979,14 @@ window.CLARE_TOOL_DATA = [
     "language": "Python",
     "stars": 9723,
     "install": "git clone https://github.com/NathanUA/U-2-Net.git && pip install -r U-2-Net/requirements.txt",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681359559ee9a33d53f8e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681359559ee9a33d53f8e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/xuebinqin/U-2-Net",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-810b-84e9-d5c5c5646137",
@@ -31282,7 +34068,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96810b84e9d5c5c5646137.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96810b84e9d5c5c5646137.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 0,
+      "method": "GET",
+      "finalUrl": "https://www.slazzer.com",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.slazzer.com:443"
+    }
   },
   {
     "id": "3581c99d-3c96-814f-8255-eec8118fbd9b",
@@ -31357,7 +34150,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96814f8255eec8118fbd9b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96814f8255eec8118fbd9b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.deeparteffects.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8158-88a8-c28700abb39e",
@@ -31438,7 +34238,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96815888a8c28700abb39e.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96815888a8c28700abb39e.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.photoroom.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8125-845a-d7c56ae826fd",
@@ -31519,7 +34326,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968125845ad7c56ae826fd.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968125845ad7c56ae826fd.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://picsart.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8189-b19f-dfb0a756f451",
@@ -31597,7 +34411,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968189b19fdfb0a756f451.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968189b19fdfb0a756f451.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 403,
+      "method": "GET",
+      "finalUrl": "https://www.canva.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81fb-b2df-cb013b964730",
@@ -31675,7 +34496,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681fbb2dfcb013b964730.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681fbb2dfcb013b964730.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.fotor.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8104-9e13-e64ac1436fea",
@@ -31753,7 +34581,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681049e13e64ac1436fea.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681049e13e64ac1436fea.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.coroflot.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8158-80e2-cccd50773025",
@@ -31828,7 +34663,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96815880e2cccd50773025.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96815880e2cccd50773025.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://www.yankodesign.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81a0-bf9d-c6bbe8da3d23",
@@ -31905,7 +34747,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a0bf9dc6bbe8da3d23.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a0bf9dc6bbe8da3d23.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.designspiration.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8176-b24f-e06e4ac9faf1",
@@ -31986,7 +34835,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968176b24fe06e4ac9faf1.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968176b24fe06e4ac9faf1.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.pinterest.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8170-a9cd-edf3ae26465d",
@@ -32064,7 +34920,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968170a9cdedf3ae26465d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968170a9cdedf3ae26465d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://dribbble.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81cb-a69b-daf3e4e959e2",
@@ -32143,7 +35006,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681cba69bdaf3e4e959e2.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681cba69bdaf3e4e959e2.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 0,
+      "method": "GET",
+      "finalUrl": "https://www.behance.net",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.behance.net:443"
+    }
   },
   {
     "id": "3581c99d-3c96-810e-b850-d61b91fa6273",
@@ -32221,7 +35091,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96810eb850d61b91fa6273.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96810eb850d61b91fa6273.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://readpo.com/en",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8192-a3b5-fb23b01eb8d5",
@@ -32295,7 +35172,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968192a3b5fb23b01eb8d5.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968192a3b5fb23b01eb8d5.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.artbreeder.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81f6-95c2-d24e68dff217",
@@ -32375,7 +35259,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f695c2d24e68dff217.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f695c2d24e68dff217.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.creativeapplications.net/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8151-ad45-d9e7a1a78b9a",
@@ -32447,7 +35338,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968151ad45d9e7a1a78b9a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968151ad45d9e7a1a78b9a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.computer-arts-society.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-813f-986f-fd8cb5a47106",
@@ -32525,7 +35423,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96813f986ffd8cb5a47106.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96813f986ffd8cb5a47106.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://runwayml.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8139-968b-d817767b6e18",
@@ -32604,7 +35509,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968139968bd817767b6e18.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968139968bd817767b6e18.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://aiartists.org/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-816a-bce7-c181b64bbddb",
@@ -32679,7 +35591,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96816abce7c181b64bbddb.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96816abce7c181b64bbddb.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 0,
+      "method": "GET",
+      "finalUrl": "https://www.openprocessing.org",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to www.openprocessing.org:443"
+    }
   },
   {
     "id": "3581c99d-3c96-81fe-9f9a-f1ae432773a8",
@@ -32757,7 +35676,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681fe9f9af1ae432773a8.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681fe9f9af1ae432773a8.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://processing.org/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-811b-b1f5-e5a50f5ccd3f",
@@ -32838,7 +35764,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96811bb1f5e5a50f5ccd3f.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96811bb1f5e5a50f5ccd3f.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://artsandculture.google.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81a2-b816-f5877f67bd73",
@@ -32907,7 +35840,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a2b816f5877f67bd73.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681a2b816f5877f67bd73.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://ars.electronica.art/de/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8122-b649-eaf29396156a",
@@ -32977,7 +35917,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968122b649eaf29396156a.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968122b649eaf29396156a.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://lumenprize.org/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81f0-8be4-eddb1560d989",
@@ -33058,7 +36005,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f08be4eddb1560d989.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681f08be4eddb1560d989.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.notion.so/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81e6-9f31-da1fb46e8687",
@@ -33138,7 +36092,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681e69f31da1fb46e8687.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681e69f31da1fb46e8687.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://openrouter.ai/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-816a-aaf3-d9a94ff3a55d",
@@ -33211,7 +36172,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96816aaaf3d9a94ff3a55d.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96816aaaf3d9a94ff3a55d.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.awwwards.com/websites/retro/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-811b-82a0-dfba81365961",
@@ -33287,7 +36255,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96811b82a0dfba81365961.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96811b82a0dfba81365961.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://stitch.withgoogle.com/projects/6134938089688120886",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-817a-a8a4-fd00d878ef54",
@@ -33364,7 +36339,14 @@ window.CLARE_TOOL_DATA = [
     "language": "HTML",
     "stars": 124,
     "install": "直接浏览或克隆仓库，按照 AGENTS.md 指引使用。",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96817aa8a4fd00d878ef54.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96817aa8a4fd00d878ef54.jpg",
+    "linkCheck": {
+      "ok": false,
+      "status": 0,
+      "method": "GET",
+      "finalUrl": "https://github.com/zarazhangrui/beautiful-html-templates",
+      "error": "curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443"
+    }
   },
   {
     "id": "3581c99d-3c96-8104-92b7-e6e96fa54e93",
@@ -33442,7 +36424,14 @@ window.CLARE_TOOL_DATA = [
     "language": "Shell",
     "stars": 120696,
     "install": "curl -fsSL https://claude.ai/install.sh | bash",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96810492b7e6e96fa54e93.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96810492b7e6e96fa54e93.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "GET",
+      "finalUrl": "https://github.com/anthropics/claude-code",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81ea-a141-e0228f1143fc",
@@ -33515,7 +36504,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681eaa141e0228f1143fc.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681eaa141e0228f1143fc.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S1544045939%3A1780721712910123&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AcDsRvyOub-m3DkT5fv9yx6Rrp5lVQY44-DlRNNcd4uYz0aRmSZC87kH5iNu1lCtJQrsVLsactBO",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8188-b612-f3376db70e3b",
@@ -33598,7 +36594,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968188b612f3376db70e3b.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968188b612f3376db70e3b.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.figma.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8194-9a27-f1d8679bc2a9",
@@ -33680,7 +36683,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "npm i animejs",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681949a27f1d8679bc2a9.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681949a27f1d8679bc2a9.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://animejs.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8117-bbe2-ca7fea207982",
@@ -33748,7 +36758,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968117bbe2ca7fea207982.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968117bbe2ca7fea207982.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://codexpet.xyz/zh/pets/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-811e-96d1-cef685c2c170",
@@ -33827,7 +36844,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96811e96d1cef685c2c170.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96811e96d1cef685c2c170.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://linktr.ee/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8154-b6a8-dd32e40587e6",
@@ -33901,7 +36925,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968154b6a8dd32e40587e6.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968154b6a8dd32e40587e6.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.framer.com/marketplace/templates/dreelio/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-81d6-a19d-e3787df795d4",
@@ -33983,7 +37014,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681d6a19de3787df795d4.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c9681d6a19de3787df795d4.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://www.slideland.tech/en",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-818c-b50b-d38762fa22ed",
@@ -34063,7 +37101,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96818cb50bd38762fa22ed.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c96818cb50bd38762fa22ed.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://omma.build/community/pjpf0z3bkfpo",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8115-ab39-de33d6ea6497",
@@ -34135,7 +37180,14 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968115ab39de33d6ea6497.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968115ab39de33d6ea6497.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://gitpets.com/",
+      "error": null
+    }
   },
   {
     "id": "3581c99d-3c96-8115-b9f3-d249b2fec200",
@@ -34214,6 +37266,13 @@ window.CLARE_TOOL_DATA = [
     "language": "",
     "stars": 0,
     "install": "",
-    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968115b9f3d249b2fec200.jpg"
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3581c99d3c968115b9f3d249b2fec200.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://peachweb.io/",
+      "error": null
+    }
   }
 ];

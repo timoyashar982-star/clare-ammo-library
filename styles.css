@@ -548,6 +548,14 @@ button {
   font-weight: 800;
 }
 
+.status-pill.link-ok {
+  color: #177245;
+}
+
+.status-pill.link-review {
+  color: #a45a00;
+}
+
 .site-headline {
   margin: 10px 0 12px;
   color: rgba(23, 19, 15, 0.73);
@@ -709,6 +717,10 @@ button {
   border: 2px solid var(--black);
   padding: 10px 16px;
   box-shadow: 5px 5px var(--black);
+}
+
+.visit-link.link-warning {
+  background: #a45a00;
 }
 
 .footer {

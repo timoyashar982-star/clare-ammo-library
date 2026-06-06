@@ -7,8 +7,6 @@ const state = {
 };
 
 const els = {
-  toolCount: document.querySelector("#toolCount"),
-  resultCount: document.querySelector("#resultCount"),
   activeLabel: document.querySelector("#activeLabel"),
   categoryList: document.querySelector("#categoryList"),
   subCategoryList: document.querySelector("#subCategoryList"),
@@ -35,11 +33,6 @@ function unique(values) {
   return [...new Set(values.filter(Boolean))];
 }
 
-function countByCategory(category) {
-  if (category === "全部") return sites.length;
-  return sites.filter((site) => site.category === category).length;
-}
-
 function getSubcategories() {
   const scoped = state.activeCategory === "全部"
     ? sites
@@ -53,7 +46,6 @@ function searchableText(site) {
     site.headline,
     site.category,
     site.subcategory,
-    site.status,
     site.language,
     site.repoType,
     ...(site.tags || []),
@@ -90,7 +82,6 @@ function renderCategories() {
       return `
         <button class="cat-btn${active}" type="button" data-category="${escapeAttr(category)}">
           <span>${escapeHtml(category)}</span>
-          <span>${countByCategory(category)}</span>
         </button>
       `;
     })
@@ -108,7 +99,6 @@ function renderSubcategories() {
 }
 
 function renderCards(items) {
-  els.resultCount.textContent = String(items.length);
   els.activeLabel.textContent = state.activeSubcategory === "全部"
     ? state.activeCategory
     : `${state.activeCategory} / ${state.activeSubcategory}`;
@@ -122,6 +112,7 @@ function renderCards(items) {
     .map((site) => {
       const tags = (site.tags || []).slice(0, 4).map((tag) => `<span class="tag-pill">${escapeHtml(tag)}</span>`).join("");
       const cover = site.cover || "";
+      const linkOk = site.linkCheck?.ok === true;
       return `
         <article class="site-card" tabindex="0" role="button" data-id="${escapeAttr(site.id)}" aria-label="查看 ${escapeAttr(site.name)}">
           <div class="site-cover">
@@ -130,13 +121,13 @@ function renderCards(items) {
           <div class="site-body">
             <div class="site-title-row">
               <h3 class="site-title">${escapeHtml(site.name)}</h3>
-              <span class="status-pill">${escapeHtml(site.status || "收录")}</span>
+              <span class="status-pill ${linkOk ? "link-ok" : "link-review"}">${linkOk ? "可访问" : "待复核"}</span>
             </div>
             <p class="site-headline">${escapeHtml(site.headline || "一件值得留在手边的小工具。")}</p>
             <div class="tag-list">${tags}</div>
             <div class="site-footer">
               <span>${escapeHtml(site.subcategory || site.category || "工具")}</span>
-              <span>👁 ${Number(site.visitCount || 0)}</span>
+              <span>${linkOk ? "外链核验通过" : "外链可能失效"}</span>
             </div>
           </div>
         </article>
@@ -171,6 +162,8 @@ function openDetail(id) {
   els.modalTags.innerHTML = (site.tags || []).slice(0, 8).map((tag) => `<span class="tag-pill">${escapeHtml(tag)}</span>`).join("");
   els.modalIntro.textContent = compactIntro(site);
   els.modalLink.href = site.url || "#";
+  els.modalLink.textContent = site.linkCheck?.ok === true ? "打开原网站 ↗" : "尝试打开原网站（待复核）↗";
+  els.modalLink.classList.toggle("link-warning", site.linkCheck?.ok !== true);
   els.modal.classList.add("open");
   els.modal.setAttribute("aria-hidden", "false");
   document.body.style.overflow = "hidden";
@@ -279,6 +272,5 @@ function bindEvents() {
   });
 }
 
-els.toolCount.textContent = String(sites.length);
 bindEvents();
 renderAll();
