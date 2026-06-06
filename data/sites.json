@@ -1,5 +1,88 @@
 [
   {
+    "id": "3771c99d-3c96-8178-9440-c0dc35b4d433",
+    "notionUrl": "https://app.notion.com/p/Taste-Skill-3771c99d3c9681789440c0dc35b4d433",
+    "name": "Taste-Skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "headline": "提升AI生成内容的设计品味,打造高质量前端界面。",
+    "category": "🌟 灵感与审美",
+    "subcategory": "设计灵感",
+    "tags": [
+      "AI生成",
+      "代码",
+      "网页",
+      "设计",
+      "前端",
+      "开源",
+      "英文",
+      "CLI工具"
+    ],
+    "capabilities": [
+      "提升AI生成界面的设计品味",
+      "优化AI生成网页的布局与排版",
+      "为AI代理生成设计参考图像",
+      "协助AI代理生成高质量前端代码",
+      "防止AI生成平庸乏味的设计",
+      "提供便携式AI代理设计技能"
+    ],
+    "scenarios": [
+      "当AI生成网页界面不尽人意时",
+      "希望AI代理产出更高质量前端代码时",
+      "需要AI生成有设计感的网站参考图时",
+      "想提升AI在布局、排版、动效上的表现时"
+    ],
+    "status": "⭐ 高频",
+    "searchKeywords": [
+      "Taste-Skill",
+      "AI设计",
+      "AI前端",
+      "AI代码生成",
+      "智能体设计",
+      "AI界面优化",
+      "前端框架",
+      "AI审美",
+      "AI品味提升",
+      "AI agent skills"
+    ],
+    "alternatives": {
+      "replaces": [
+        "AI生成的通用模板设计",
+        "手动纠正AI生成的粗糙设计"
+      ],
+      "similarTo": [
+        "Vercel v0",
+        "Teleport HQ",
+        "Locofy.ai",
+        "OpenAI Codex",
+        "Claude Code"
+      ],
+      "pairsWith": [
+        "ChatGPT Images",
+        "Cursor",
+        "Claude Code",
+        "Codex"
+      ]
+    },
+    "visitCount": 208,
+    "lastVisited": "2026-06-06",
+    "added": "2026-06-06T06:36:00.000Z",
+    "myNotes": "",
+    "intro": "这是一个名为 **Taste Skill** (https://github.com/Leonxlnx/taste-skill) 的 AI 代理技能库。\n\n简单来说,它是为 **AI 开发者和前端工程师** 准备的“**AI 前端品味调校师**”。它用于提升 AI 生成前端界面的品质,优化布局、排版、动效与间距,并提供多种设计风格技能。\n\n**一句话总结：** 这是一个让你 **优化 AI 前端设计输出**,并能 **根据需求选择不同设计风格** 的工具网站。",
+    "isGithub": true,
+    "repoType": "skill",
+    "language": "Shell",
+    "stars": 34319,
+    "install": "npx skills add https://github.com/Leonxlnx/taste-skill",
+    "cover": "https://xiaoer-tools-wall.vercel.app/covers/3771c99d3c9681789440c0dc35b4d433.jpg",
+    "linkCheck": {
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/Leonxlnx/taste-skill",
+      "error": null
+    }
+  },
+  {
     "id": "3761c99d-3c96-81ae-8172-c767c77c1049",
     "notionUrl": "https://app.notion.com/p/Mousecape-3761c99d3c9681ae8172c767c77c1049",
     "name": "Mousecape",

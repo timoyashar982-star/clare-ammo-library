@@ -1,7 +1,7 @@
 {
   "summary": {
-    "checked": 437,
-    "ok": 394,
+    "checked": 438,
+    "ok": 395,
     "failed": 43
   },
   "results": [
@@ -3315,6 +3315,15 @@
       "status": 200,
       "method": "HEAD",
       "finalUrl": "https://www.tapnow.ai/",
+      "error": null
+    },
+    {
+      "name": "Taste-Skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "ok": true,
+      "status": 200,
+      "method": "HEAD",
+      "finalUrl": "https://github.com/Leonxlnx/taste-skill",
       "error": null
     },
     {

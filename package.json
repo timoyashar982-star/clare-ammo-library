@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && mkdir -p public && cp -R out/. public/",
+    "build": "node scripts/prepare-export.mjs && next build && mkdir -p public && cp -R out/. public/",
     "start": "next start",
-    "check": "node ../../tests/static-check.mjs && next build"
+    "check": "node ../../tests/static-check.mjs && node scripts/prepare-export.mjs && next build"
   },
   "dependencies": {
     "next": "^16.1.6",

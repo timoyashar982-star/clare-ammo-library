@@ -2,6 +2,7 @@
 .next
 out
 public
+.generated-trash
 node_modules
 .chrome-*
 npm-debug.log*

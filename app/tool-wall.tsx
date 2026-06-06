@@ -162,10 +162,7 @@ export function ToolWall({ initialSites }: { initialSites: Site[] }) {
             <span className="footprints">❧</span>
             <span>Clare 私藏</span>
           </a>
-          <div className="nav-meta">
-            <span>Next.js 复刻版</span>
-            <span>·</span>
-            <span>卡片直达外链</span>
+          <div className="nav-actions">
             <button
               id="themeButton"
               className="gear"
@@ -341,7 +338,7 @@ export function ToolWall({ initialSites }: { initialSites: Site[] }) {
       </main>
 
       <footer className="footer">
-        <p>Clare&apos;s private tool wall · cards jump directly to source links.</p>
+        <p>Clare&apos;s private tool wall.</p>
       </footer>
 
       <button className="scroll-top-btn visible" type="button" aria-label="回到顶部" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
@@ -356,7 +353,7 @@ function ToolCard({ site }: { site: Site }) {
   const displayUrl = formatDisplayUrl(site.url);
 
   return (
-    <a className="site-card" href={site.url} aria-label={`打开 ${site.name}`}>
+    <a className="site-card" href={site.url} target="_blank" rel="noreferrer" aria-label={`打开 ${site.name}`}>
       <div className="site-cover">
         {site.cover ? <img src={site.cover} alt="" loading="lazy" referrerPolicy="no-referrer" /> : null}
       </div>

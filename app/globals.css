@@ -113,7 +113,7 @@ button {
   font-size: 1.1rem;
 }
 
-.nav-meta {
+.nav-actions {
   margin-left: auto;
   display: flex;
   align-items: center;
@@ -125,7 +125,7 @@ button {
   white-space: nowrap;
 }
 
-.nav-meta strong {
+.nav-actions strong {
   color: var(--cream);
   letter-spacing: 0;
 }
@@ -843,7 +843,7 @@ body.paper-theme {
 }
 
 body.paper-theme .brand,
-body.paper-theme .nav-meta,
+body.paper-theme .nav-actions,
 body.paper-theme .hero-sub,
 body.paper-theme .browse-main-title,
 body.paper-theme .empty,
@@ -871,9 +871,10 @@ body.paper-theme {
     flex-wrap: wrap;
   }
 
-  .nav-meta {
+  .nav-actions {
     width: 100%;
     margin-left: 0;
+    justify-content: flex-end;
     overflow-x: auto;
   }
 
@@ -964,7 +965,7 @@ body.paper-theme {
     padding: 7px 11px;
   }
 
-  .nav-meta {
+  .nav-actions {
     flex-wrap: wrap;
     gap: 6px;
     overflow: visible;
