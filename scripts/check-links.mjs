@@ -1,13 +1,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { execFile } from "node:child_process";
-import vm from "node:vm";
 
-const source = readFileSync(new URL("../data.js", import.meta.url), "utf8");
-const sandbox = { window: {} };
-vm.createContext(sandbox);
-vm.runInContext(source, sandbox);
-
-const sites = sandbox.window.CLARE_TOOL_DATA || [];
+const sites = JSON.parse(readFileSync(new URL("../data/sites.json", import.meta.url), "utf8"));
 const uniqueUrls = [...new Map(sites.filter((site) => site.url).map((site) => [site.url, site])).entries()];
 const timeoutSeconds = 6;
 const concurrency = 32;
