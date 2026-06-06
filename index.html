@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>clare's 私人弹药库</title>
+    <meta
+      name="description"
+      content="Clare 的私人 AI 工具收藏 · 亲手挑过、还在长的、不喧嚣的"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Klee+One:wght@400;600&family=Shippori+Mincho:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body class="palette-pop">
+    <header class="top-header">
+      <nav class="nav-shell" aria-label="主导航">
+        <a class="brand glitch" href="#top" aria-label="回到首页">Clare 的私人弹药库</a>
+        <a class="friend-ticket" href="#browse" aria-label="朋友来过">
+          <span class="footprints">❧</span>
+          <strong>19</strong>
+          <span>朋友来过</span>
+        </a>
+        <div class="nav-meta">
+          <span>2026.06.06</span>
+          <span>·</span>
+          <strong id="toolCount">437</strong>
+          <span>工具</span>
+          <span>·</span>
+          <span>♙</span>
+          <strong>405</strong>
+          <span>访客</span>
+          <button class="lang-switch" type="button" aria-label="语言切换">中 / EN</button>
+          <button id="themeButton" class="gear" type="button" aria-label="切换主题">⚙</button>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero-imagine" aria-labelledby="heroTitle">
+        <div class="scribble s1" aria-hidden="true"></div>
+        <div class="scribble s2" aria-hidden="true"></div>
+        <div class="hero-content">
+          <p class="kicker-pill">私人收藏 · 动态手帐</p>
+          <h1 id="heroTitle" class="hero-title" aria-label="你在做什么？">
+            <span>你</span><span>在</span><span>做</span><span>什</span><span>么</span><span>？</span>
+          </h1>
+          <p class="hero-sub">
+            我亲手存的那些审美的、在生长的、不喧嚣的 AI 工具，你携带着。
+          </p>
+
+          <form id="askForm" class="ask-card" action="#browse">
+            <input
+              id="heroSearch"
+              class="ask-textarea"
+              type="search"
+              placeholder="AI 视频工具"
+              autocomplete="off"
+              aria-label="搜索工具"
+            />
+            <button class="ask-btn-jelly" type="submit">Ask AI</button>
+          </form>
+
+          <div class="prompt-rail" aria-label="快捷搜索">
+            <button type="button" class="prompt-chip">PPT 神器</button>
+            <button type="button" class="prompt-chip">提示词工程</button>
+            <button type="button" class="prompt-chip">API 中转</button>
+            <button type="button" class="prompt-chip">AI 视频工具</button>
+          </div>
+        </div>
+        <div class="dotted-sep" aria-hidden="true"></div>
+      </section>
+
+      <section id="browse" class="browse-section" aria-labelledby="browseTitle">
+        <aside class="browse-sidebar">
+          <p class="browse-kicker">Index<small>按心情翻墙</small></p>
+          <div id="categoryList" class="category-list"></div>
+          <div class="sidebar-note">
+            <span>Clare mode</span>
+            <strong>Keep the useful odd ones.</strong>
+          </div>
+        </aside>
+
+        <div class="browse-main">
+          <div class="browse-toolbar">
+            <div>
+              <p class="eyebrow">tool wall</p>
+              <h2 id="browseTitle" class="browse-main-title">全部弹药</h2>
+              <p class="browse-meta">
+                <span id="resultCount">0</span>
+                <span class="browse-count-dot">·</span>
+                <span id="activeLabel">全部分类</span>
+              </p>
+            </div>
+            <label class="browse-search-shell">
+              <span class="browse-search-icon">⌕</span>
+              <input id="browseSearch" class="browse-search" type="search" placeholder="搜名称、标签、场景" />
+            </label>
+          </div>
+
+          <div id="subCategoryList" class="sub-list" aria-label="子分类"></div>
+          <div id="cardGrid" class="card-grid"></div>
+        </div>
+      </section>
+    </main>
+
+    <div id="modal" class="modal" aria-hidden="true">
+      <button class="modal-scrim" type="button" aria-label="关闭详情"></button>
+      <article class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <button id="modalClose" class="modal-close" type="button" aria-label="关闭">×</button>
+        <img id="modalCover" class="modal-cover" alt="" />
+        <div class="modal-body">
+          <p id="modalCategory" class="modal-category"></p>
+          <h3 id="modalTitle"></h3>
+          <p id="modalHeadline" class="modal-headline"></p>
+          <div id="modalTags" class="modal-tags"></div>
+          <div id="modalIntro" class="modal-intro"></div>
+          <a id="modalLink" class="visit-link" href="#" target="_blank" rel="noreferrer">打开原网站 ↗</a>
+        </div>
+      </article>
+    </div>
+
+    <footer class="footer">
+      <p>Clare's private tool wall · copied with care, renamed with intent.</p>
+    </footer>
+
+    <button id="scrollTop" class="scroll-top-btn" type="button" aria-label="回到顶部">↑</button>
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
